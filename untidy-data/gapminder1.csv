@@ -1,0 +1,2080 @@
+year,country,measure,measurement
+1955,Afghanistan,pop,8891209.0
+1960,Afghanistan,pop,9829450.0
+1965,Afghanistan,pop,10997885.0
+1970,Afghanistan,pop,12430623.0
+1975,Afghanistan,pop,14132019.0
+1980,Afghanistan,pop,15112149.0
+1985,Afghanistan,pop,13796928.0
+1990,Afghanistan,pop,14669339.0
+1995,Afghanistan,pop,20881480.0
+2000,Afghanistan,pop,23898198.0
+2005,Afghanistan,pop,29928987.0
+1955,Argentina,pop,18927821.0
+1960,Argentina,pop,20616009.0
+1965,Argentina,pop,22283100.0
+1970,Argentina,pop,23962313.0
+1975,Argentina,pop,26081880.0
+1980,Argentina,pop,28369799.0
+1985,Argentina,pop,30675059.0
+1990,Argentina,pop,33022202.0
+1995,Argentina,pop,35311049.0
+2000,Argentina,pop,37497728.0
+2005,Argentina,pop,39537943.0
+1955,Aruba,pop,53865.0
+1960,Aruba,pop,57203.0
+1965,Aruba,pop,59020.0
+1970,Aruba,pop,59039.0
+1975,Aruba,pop,59390.0
+1980,Aruba,pop,60266.0
+1985,Aruba,pop,64129.0
+1990,Aruba,pop,66653.0
+1995,Aruba,pop,67836.0
+2000,Aruba,pop,69539.0
+2005,Aruba,pop,71566.0
+1955,Australia,pop,9277087.0
+1960,Australia,pop,10361273.0
+1965,Australia,pop,11439384.0
+1970,Australia,pop,12660160.0
+1975,Australia,pop,13771400.0
+1980,Australia,pop,14615900.0
+1985,Australia,pop,15788300.0
+1990,Australia,pop,17022133.0
+1995,Australia,pop,18116171.0
+2000,Australia,pop,19164620.0
+2005,Australia,pop,20090437.0
+1955,Austria,pop,6946885.0
+1960,Austria,pop,7047437.0
+1965,Austria,pop,7270889.0
+1970,Austria,pop,7467086.0
+1975,Austria,pop,7578903.0
+1980,Austria,pop,7549433.0
+1985,Austria,pop,7559776.0
+1990,Austria,pop,7722953.0
+1995,Austria,pop,8047433.0
+2000,Austria,pop,8113413.0
+2005,Austria,pop,8184691.0
+1955,Bahamas,pop,87138.0
+1960,Bahamas,pop,112234.0
+1965,Bahamas,pop,139205.0
+1970,Bahamas,pop,170323.0
+1975,Bahamas,pop,189139.0
+1980,Bahamas,pop,209944.0
+1985,Bahamas,pop,234988.0
+1990,Bahamas,pop,257253.0
+1995,Bahamas,pop,275303.0
+2000,Bahamas,pop,290075.0
+2005,Bahamas,pop,301790.0
+1955,Bangladesh,pop,49601520.0
+1960,Bangladesh,pop,54621538.0
+1965,Bangladesh,pop,60332117.0
+1970,Bangladesh,pop,67402621.0
+1975,Bangladesh,pop,76253310.0
+1980,Bangladesh,pop,88076996.0
+1985,Bangladesh,pop,99752733.0
+1990,Bangladesh,pop,109896945.0
+1995,Bangladesh,pop,119186448.0
+2000,Bangladesh,pop,130406594.0
+2005,Bangladesh,pop,144319628.0
+1955,Barbados,pop,227255.0
+1960,Barbados,pop,232339.0
+1965,Barbados,pop,234980.0
+1970,Barbados,pop,238756.0
+1975,Barbados,pop,247147.0
+1980,Barbados,pop,251966.0
+1985,Barbados,pop,257446.0
+1990,Barbados,pop,262624.0
+1995,Barbados,pop,267907.0
+2000,Barbados,pop,273483.0
+2005,Barbados,pop,278870.0
+1955,Belgium,pop,8868475.0
+1960,Belgium,pop,9118700.0
+1965,Belgium,pop,9448100.0
+1970,Belgium,pop,9637800.0
+1975,Belgium,pop,9794800.0
+1980,Belgium,pop,9846800.0
+1985,Belgium,pop,9858200.0
+1990,Belgium,pop,9969310.0
+1995,Belgium,pop,10155459.0
+2000,Belgium,pop,10263618.0
+2005,Belgium,pop,10364388.0
+1955,Bolivia,pop,3074311.0
+1960,Bolivia,pop,3434073.0
+1965,Bolivia,pop,3853315.0
+1970,Bolivia,pop,4346218.0
+1975,Bolivia,pop,4914316.0
+1980,Bolivia,pop,5441298.0
+1985,Bolivia,pop,5934935.0
+1990,Bolivia,pop,6573900.0
+1995,Bolivia,pop,7376582.0
+2000,Bolivia,pop,8152620.0
+2005,Bolivia,pop,8857870.0
+1955,Brazil,pop,61773546.0
+1960,Brazil,pop,71694810.0
+1965,Brazil,pop,83092908.0
+1970,Brazil,pop,95684297.0
+1975,Brazil,pop,108823732.0
+1980,Brazil,pop,122958132.0
+1985,Brazil,pop,137302933.0
+1990,Brazil,pop,151083809.0
+1995,Brazil,pop,163542501.0
+2000,Brazil,pop,175552771.0
+2005,Brazil,pop,186112794.0
+1955,Canada,pop,16050356.0
+1960,Canada,pop,18266765.0
+1965,Canada,pop,20071104.0
+1970,Canada,pop,21749986.0
+1975,Canada,pop,23209200.0
+1980,Canada,pop,24593300.0
+1985,Canada,pop,25941600.0
+1990,Canada,pop,27790600.0
+1995,Canada,pop,29619002.0
+2000,Canada,pop,31278097.0
+2005,Canada,pop,32805041.0
+1955,Chile,pop,6743269.0
+1960,Chile,pop,7585349.0
+1965,Chile,pop,8509950.0
+1970,Chile,pop,9368558.0
+1975,Chile,pop,10251542.0
+1980,Chile,pop,11093718.0
+1985,Chile,pop,12066701.0
+1990,Chile,pop,13127760.0
+1995,Chile,pop,14205449.0
+2000,Chile,pop,15153450.0
+2005,Chile,pop,15980912.0
+1955,China,pop,608655000.0
+1960,China,pop,667070000.0
+1965,China,pop,715185000.0
+1970,China,pop,818315000.0
+1975,China,pop,916395000.0
+1980,China,pop,981235000.0
+1985,China,pop,1051040000.0
+1990,China,pop,1135185000.0
+1995,China,pop,1204855000.0
+2000,China,pop,1262645000.0
+2005,China,pop,1303182268.0
+1955,Colombia,pop,13588405.0
+1960,Colombia,pop,15952727.0
+1965,Colombia,pop,18646175.0
+1970,Colombia,pop,21429658.0
+1975,Colombia,pop,24114177.0
+1980,Colombia,pop,26582811.0
+1985,Colombia,pop,29678395.0
+1990,Colombia,pop,32858579.0
+1995,Colombia,pop,36280883.0
+2000,Colombia,pop,39685655.0
+2005,Colombia,pop,42954279.0
+1955,Costa Rica,pop,1031782.0
+1960,Costa Rica,pop,1248022.0
+1965,Costa Rica,pop,1487605.0
+1970,Costa Rica,pop,1735523.0
+1975,Costa Rica,pop,1991580.0
+1980,Costa Rica,pop,2299124.0
+1985,Costa Rica,pop,2643808.0
+1990,Costa Rica,pop,3027175.0
+1995,Costa Rica,pop,3383786.0
+2000,Costa Rica,pop,3710558.0
+2005,Costa Rica,pop,4016173.0
+1955,Croatia,pop,3955526.0
+1960,Croatia,pop,4036145.0
+1965,Croatia,pop,4133313.0
+1970,Croatia,pop,4205389.0
+1975,Croatia,pop,4255000.0
+1980,Croatia,pop,4383000.0
+1985,Croatia,pop,4457874.0
+1990,Croatia,pop,4508347.0
+1995,Croatia,pop,4496683.0
+2000,Croatia,pop,4410830.0
+2005,Croatia,pop,4495904.0
+1955,Cuba,pop,6381106.0
+1960,Cuba,pop,7027210.0
+1965,Cuba,pop,7809916.0
+1970,Cuba,pop,8542746.0
+1975,Cuba,pop,9290074.0
+1980,Cuba,pop,9652975.0
+1985,Cuba,pop,10078658.0
+1990,Cuba,pop,10544793.0
+1995,Cuba,pop,10896802.0
+2000,Cuba,pop,11134273.0
+2005,Cuba,pop,11346670.0
+1955,Dominican Republic,pop,2737257.0
+1960,Dominican Republic,pop,3231488.0
+1965,Dominican Republic,pop,3805881.0
+1970,Dominican Republic,pop,4422755.0
+1975,Dominican Republic,pop,5048499.0
+1980,Dominican Republic,pop,5696855.0
+1985,Dominican Republic,pop,6377765.0
+1990,Dominican Republic,pop,7077651.0
+1995,Dominican Republic,pop,7730224.0
+2000,Dominican Republic,pop,8385828.0
+2005,Dominican Republic,pop,9049595.0
+1955,Ecuador,pop,3842399.0
+1960,Ecuador,pop,4415956.0
+1965,Ecuador,pop,5117779.0
+1970,Ecuador,pop,5939246.0
+1975,Ecuador,pop,6871698.0
+1980,Ecuador,pop,7920499.0
+1985,Ecuador,pop,9061664.0
+1990,Ecuador,pop,10318036.0
+1995,Ecuador,pop,11438004.0
+2000,Ecuador,pop,12505204.0
+2005,Ecuador,pop,13363593.0
+1955,Egypt,pop,23855527.0
+1960,Egypt,pop,26846610.0
+1965,Egypt,pop,30265148.0
+1970,Egypt,pop,33574026.0
+1975,Egypt,pop,36952499.0
+1980,Egypt,pop,42634215.0
+1985,Egypt,pop,50052381.0
+1990,Egypt,pop,56694413.0
+1995,Egypt,pop,63321615.0
+2000,Egypt,pop,70492342.0
+2005,Egypt,pop,77505756.0
+1955,El Salvador,pop,2221139.0
+1960,El Salvador,pop,2581583.0
+1965,El Salvador,pop,3017852.0
+1970,El Salvador,pop,3603907.0
+1975,El Salvador,pop,4071179.0
+1980,El Salvador,pop,4566199.0
+1985,El Salvador,pop,4664361.0
+1990,El Salvador,pop,5099884.0
+1995,El Salvador,pop,5568437.0
+2000,El Salvador,pop,6122515.0
+2005,El Salvador,pop,6704932.0
+1955,Finland,pop,4234900.0
+1960,Finland,pop,4429600.0
+1965,Finland,pop,4563732.0
+1970,Finland,pop,4606307.0
+1975,Finland,pop,4711439.0
+1980,Finland,pop,4779535.0
+1985,Finland,pop,4901783.0
+1990,Finland,pop,4986431.0
+1995,Finland,pop,5104654.0
+2000,Finland,pop,5168595.0
+2005,Finland,pop,5223442.0
+1955,France,pop,43427669.0
+1960,France,pop,45670000.0
+1965,France,pop,48763000.0
+1970,France,pop,50787000.0
+1975,France,pop,52758427.0
+1980,France,pop,53869743.0
+1985,France,pop,55171224.0
+1990,France,pop,56735161.0
+1995,France,pop,58149727.0
+2000,France,pop,59381628.0
+2005,France,pop,60656178.0
+1955,Georgia,pop,3827154.0
+1960,Georgia,pop,4146570.0
+1965,Georgia,pop,4464959.0
+1970,Georgia,pop,4694491.0
+1975,Georgia,pop,4897656.0
+1980,Georgia,pop,5045697.0
+1985,Georgia,pop,5192957.0
+1990,Georgia,pop,5426207.0
+1995,Georgia,pop,5012952.0
+2000,Georgia,pop,4777209.0
+2005,Georgia,pop,4677401.0
+1955,Germany,pop,70195612.0
+1960,Germany,pop,72480869.0
+1965,Germany,pop,75638851.0
+1970,Germany,pop,77783164.0
+1975,Germany,pop,78682325.0
+1980,Germany,pop,78297904.0
+1985,Germany,pop,77684907.0
+1990,Germany,pop,79380394.0
+1995,Germany,pop,81653702.0
+2000,Germany,pop,82187909.0
+2005,Germany,pop,82431390.0
+1955,Greece,pop,7965538.0
+1960,Greece,pop,8327405.0
+1965,Greece,pop,8550333.0
+1970,Greece,pop,8792806.0
+1975,Greece,pop,9046542.0
+1980,Greece,pop,9642505.0
+1985,Greece,pop,9923253.0
+1990,Greece,pop,10129603.0
+1995,Greece,pop,10457554.0
+2000,Greece,pop,10559110.0
+2005,Greece,pop,10668354.0
+1955,Grenada,pop,84621.0
+1960,Grenada,pop,90148.0
+1965,Grenada,pop,93290.0
+1970,Grenada,pop,95410.0
+1975,Grenada,pop,95819.0
+1980,Grenada,pop,90164.0
+1985,Grenada,pop,92203.0
+1990,Grenada,pop,92360.0
+1995,Grenada,pop,90603.0
+2000,Grenada,pop,89312.0
+2005,Grenada,pop,89502.0
+1955,Haiti,pop,3376419.0
+1960,Haiti,pop,3722743.0
+1965,Haiti,pop,4137405.0
+1970,Haiti,pop,4604915.0
+1975,Haiti,pop,4828338.0
+1980,Haiti,pop,5029725.0
+1985,Haiti,pop,5517977.0
+1990,Haiti,pop,6126101.0
+1995,Haiti,pop,6675578.0
+2000,Haiti,pop,7306302.0
+2005,Haiti,pop,8121622.0
+1955,Hong Kong,pop,2490400.0
+1960,Hong Kong,pop,3075300.0
+1965,Hong Kong,pop,3597900.0
+1970,Hong Kong,pop,3959000.0
+1975,Hong Kong,pop,4395800.0
+1980,Hong Kong,pop,5063100.0
+1985,Hong Kong,pop,5456200.0
+1990,Hong Kong,pop,5687959.0
+1995,Hong Kong,pop,6225347.0
+2000,Hong Kong,pop,6658720.0
+2005,Hong Kong,pop,6898686.0
+1955,Iceland,pop,158044.0
+1960,Iceland,pop,175860.0
+1965,Iceland,pop,192288.0
+1970,Iceland,pop,204104.0
+1975,Iceland,pop,218031.0
+1980,Iceland,pop,228161.0
+1985,Iceland,pop,241403.0
+1990,Iceland,pop,254719.0
+1995,Iceland,pop,267527.0
+2000,Iceland,pop,281043.0
+2005,Iceland,pop,296737.0
+1955,India,pop,393000000.0
+1960,India,pop,434000000.0
+1965,India,pop,485000000.0
+1970,India,pop,541000000.0
+1975,India,pop,607000000.0
+1980,India,pop,679000000.0
+1985,India,pop,755000000.0
+1990,India,pop,839000000.0
+1995,India,pop,927000000.0
+2000,India,pop,1007702000.0
+2005,India,pop,1080264388.0
+1955,Indonesia,pop,86807000.0
+1960,Indonesia,pop,95254000.0
+1965,Indonesia,pop,105093000.0
+1970,Indonesia,pop,116044000.0
+1975,Indonesia,pop,130297000.0
+1980,Indonesia,pop,146995000.0
+1985,Indonesia,pop,163403000.0
+1990,Indonesia,pop,178500000.0
+1995,Indonesia,pop,194755000.0
+2000,Indonesia,pop,206265000.0
+2005,Indonesia,pop,218465000.0
+1955,Iran,pop,18729000.0
+1960,Iran,pop,21577000.0
+1965,Iran,pop,25000000.0
+1970,Iran,pop,28933000.0
+1975,Iran,pop,33379000.0
+1980,Iran,pop,39583397.0
+1985,Iran,pop,48439952.0
+1990,Iran,pop,57035717.0
+1995,Iran,pop,61628116.0
+2000,Iran,pop,65660289.0
+2005,Iran,pop,68017860.0
+1955,Iraq,pop,5903253.0
+1960,Iraq,pop,6822030.0
+1965,Iraq,pop,7970746.0
+1970,Iraq,pop,9413671.0
+1975,Iraq,pop,11117804.0
+1980,Iraq,pop,13232839.0
+1985,Iraq,pop,15693620.0
+1990,Iraq,pop,18134702.0
+1995,Iraq,pop,19557247.0
+2000,Iraq,pop,22675617.0
+2005,Iraq,pop,26074906.0
+1955,Ireland,pop,2916133.0
+1960,Ireland,pop,2832000.0
+1965,Ireland,pop,2876000.0
+1970,Ireland,pop,2950100.0
+1975,Ireland,pop,3177300.0
+1980,Ireland,pop,3401000.0
+1985,Ireland,pop,3540000.0
+1990,Ireland,pop,3508200.0
+1995,Ireland,pop,3613890.0
+2000,Ireland,pop,3791690.0
+2005,Ireland,pop,4015676.0
+1955,Israel,pop,1772032.0
+1960,Israel,pop,2141495.0
+1965,Israel,pop,2578184.0
+1970,Israel,pop,2903434.0
+1975,Israel,pop,3354242.0
+1980,Israel,pop,3737473.0
+1985,Israel,pop,4074965.0
+1990,Israel,pop,4512068.0
+1995,Israel,pop,5305120.0
+2000,Israel,pop,5842454.0
+2005,Israel,pop,6276883.0
+1955,Italy,pop,48633000.0
+1960,Italy,pop,50197600.0
+1965,Italy,pop,51987100.0
+1970,Italy,pop,53661100.0
+1975,Italy,pop,55571894.0
+1980,Italy,pop,56451247.0
+1985,Italy,pop,56731215.0
+1990,Italy,pop,56742886.0
+1995,Italy,pop,57274531.0
+2000,Italy,pop,57719337.0
+2005,Italy,pop,58103033.0
+1955,Jamaica,pop,1488805.0
+1960,Jamaica,pop,1631784.0
+1965,Jamaica,pop,1777397.0
+1970,Jamaica,pop,1943787.0
+1975,Jamaica,pop,2104879.0
+1980,Jamaica,pop,2228803.0
+1985,Jamaica,pop,2318652.0
+1990,Jamaica,pop,2347922.0
+1995,Jamaica,pop,2469389.0
+2000,Jamaica,pop,2615467.0
+2005,Jamaica,pop,2735520.0
+1955,Japan,pop,89815060.0
+1960,Japan,pop,94091638.0
+1965,Japan,pop,98882534.0
+1970,Japan,pop,104344973.0
+1975,Japan,pop,111573116.0
+1980,Japan,pop,116807309.0
+1985,Japan,pop,120754335.0
+1990,Japan,pop,123537399.0
+1995,Japan,pop,125341354.0
+2000,Japan,pop,126699784.0
+2005,Japan,pop,127417244.0
+1955,Kenya,pop,7033999.0
+1960,Kenya,pop,8156827.0
+1965,Kenya,pop,9549179.0
+1970,Kenya,pop,11247182.0
+1975,Kenya,pop,13433414.0
+1980,Kenya,pop,16331401.0
+1985,Kenya,pop,19763285.0
+1990,Kenya,pop,23358413.0
+1995,Kenya,pop,27060142.0
+2000,Kenya,pop,29985839.0
+2005,Kenya,pop,33829590.0
+1955,South Korea,pop,8839427.0
+1960,South Korea,pop,10391909.0
+1965,South Korea,pop,11868751.0
+1970,South Korea,pop,13911902.0
+1975,South Korea,pop,15801308.0
+1980,South Korea,pop,17113626.0
+1985,South Korea,pop,18481420.0
+1990,South Korea,pop,20018546.0
+1995,South Korea,pop,21561856.0
+2000,South Korea,pop,21647682.0
+2005,South Korea,pop,22912177.0
+1955,North Korea,pop,21551834.0
+1960,North Korea,pop,24784140.0
+1965,North Korea,pop,28705000.0
+1970,North Korea,pop,32241000.0
+1975,North Korea,pop,35281000.0
+1980,North Korea,pop,38124000.0
+1985,North Korea,pop,40806000.0
+1990,North Korea,pop,42869000.0
+1995,North Korea,pop,45264146.0
+2000,North Korea,pop,47351083.0
+2005,North Korea,pop,48640671.0
+1955,Lebanon,pop,1560985.0
+1960,Lebanon,pop,1786235.0
+1965,Lebanon,pop,2057945.0
+1970,Lebanon,pop,2383029.0
+1975,Lebanon,pop,3098159.0
+1980,Lebanon,pop,3085876.0
+1985,Lebanon,pop,3088235.0
+1990,Lebanon,pop,3147267.0
+1995,Lebanon,pop,3334733.0
+2000,Lebanon,pop,3578036.0
+2005,Lebanon,pop,3826018.0
+1955,Mexico,pop,32929914.0
+1960,Mexico,pop,38578505.0
+1965,Mexico,pop,45142399.0
+1970,Mexico,pop,52775158.0
+1975,Mexico,pop,60678045.0
+1980,Mexico,pop,68347479.0
+1985,Mexico,pop,76767225.0
+1990,Mexico,pop,84913652.0
+1995,Mexico,pop,92880353.0
+2000,Mexico,pop,99926620.0
+2005,Mexico,pop,106202903.0
+1955,Netherlands,pop,10750842.0
+1960,Netherlands,pop,11486000.0
+1965,Netherlands,pop,12292000.0
+1970,Netherlands,pop,13032335.0
+1975,Netherlands,pop,13653438.0
+1980,Netherlands,pop,14143901.0
+1985,Netherlands,pop,14491380.0
+1990,Netherlands,pop,14951510.0
+1995,Netherlands,pop,15459054.0
+2000,Netherlands,pop,15907853.0
+2005,Netherlands,pop,16407491.0
+1955,New Zealand,pop,2136168.0
+1960,New Zealand,pop,2371746.0
+1965,New Zealand,pop,2640400.0
+1970,New Zealand,pop,2828050.0
+1975,New Zealand,pop,3117800.0
+1980,New Zealand,pop,3170150.0
+1985,New Zealand,pop,3298050.0
+1990,New Zealand,pop,3359604.0
+1995,New Zealand,pop,3565990.0
+2000,New Zealand,pop,3819762.0
+2005,New Zealand,pop,4035461.0
+1955,Nigeria,pop,35458978.0
+1960,Nigeria,pop,39914593.0
+1965,Nigeria,pop,45020052.0
+1970,Nigeria,pop,51027516.0
+1975,Nigeria,pop,58522112.0
+1980,Nigeria,pop,68550274.0
+1985,Nigeria,pop,77573154.0
+1990,Nigeria,pop,88510354.0
+1995,Nigeria,pop,100960105.0
+2000,Nigeria,pop,114306700.0
+2005,Nigeria,pop,128765768.0
+1955,Norway,pop,3427409.0
+1960,Norway,pop,3581239.0
+1965,Norway,pop,3723153.0
+1970,Norway,pop,3877386.0
+1975,Norway,pop,4007313.0
+1980,Norway,pop,4085620.0
+1985,Norway,pop,4152419.0
+1990,Norway,pop,4242006.0
+1995,Norway,pop,4359101.0
+2000,Norway,pop,4492400.0
+2005,Norway,pop,4593041.0
+1955,Pakistan,pop,44434445.0
+1960,Pakistan,pop,50386898.0
+1965,Pakistan,pop,57494940.0
+1970,Pakistan,pop,65705964.0
+1975,Pakistan,pop,74711541.0
+1980,Pakistan,pop,85219117.0
+1985,Pakistan,pop,99060352.0
+1990,Pakistan,pop,114578478.0
+1995,Pakistan,pop,128690285.0
+2000,Pakistan,pop,146342958.0
+2005,Pakistan,pop,162419946.0
+1955,Peru,pop,8671500.0
+1960,Peru,pop,9931000.0
+1965,Peru,pop,11467300.0
+1970,Peru,pop,13192800.0
+1975,Peru,pop,15161199.0
+1980,Peru,pop,17295298.0
+1985,Peru,pop,19348926.0
+1990,Peru,pop,21511443.0
+1995,Peru,pop,23846388.0
+2000,Peru,pop,25979722.0
+2005,Peru,pop,27925628.0
+1955,Philippines,pop,24553055.0
+1960,Philippines,pop,28528939.0
+1965,Philippines,pop,33267569.0
+1970,Philippines,pop,38603696.0
+1975,Philippines,pop,44336842.0
+1980,Philippines,pop,50940182.0
+1985,Philippines,pop,57288037.0
+1990,Philippines,pop,64318120.0
+1995,Philippines,pop,71717437.0
+2000,Philippines,pop,79739825.0
+2005,Philippines,pop,87857473.0
+1955,Poland,pop,27220668.0
+1960,Poland,pop,29589842.0
+1965,Poland,pop,31262358.0
+1970,Poland,pop,32526000.0
+1975,Poland,pop,33969240.0
+1980,Poland,pop,35578016.0
+1985,Poland,pop,37225792.0
+1990,Poland,pop,38119408.0
+1995,Poland,pop,38600642.0
+2000,Poland,pop,38654164.0
+2005,Poland,pop,38557984.0
+1955,Portugal,pop,8692600.0
+1960,Portugal,pop,9036700.0
+1965,Portugal,pop,9128850.0
+1970,Portugal,pop,9044200.0
+1975,Portugal,pop,9411090.0
+1980,Portugal,pop,9777800.0
+1985,Portugal,pop,9897192.0
+1990,Portugal,pop,9922689.0
+1995,Portugal,pop,10065543.0
+2000,Portugal,pop,10335597.0
+2005,Portugal,pop,10566212.0
+1955,Rwanda,pop,2698272.0
+1960,Rwanda,pop,3031804.0
+1965,Rwanda,pop,3264640.0
+1970,Rwanda,pop,3769171.0
+1975,Rwanda,pop,4356863.0
+1980,Rwanda,pop,5138689.0
+1985,Rwanda,pop,6009833.0
+1990,Rwanda,pop,6923738.0
+1995,Rwanda,pop,5706501.0
+2000,Rwanda,pop,7507056.0
+2005,Rwanda,pop,8440820.0
+1955,Saudi Arabia,pop,4243218.0
+1960,Saudi Arabia,pop,4718301.0
+1965,Saudi Arabia,pop,5327432.0
+1970,Saudi Arabia,pop,6109051.0
+1975,Saudi Arabia,pop,7204820.0
+1980,Saudi Arabia,pop,9999161.0
+1985,Saudi Arabia,pop,13330067.0
+1990,Saudi Arabia,pop,16060761.0
+1995,Saudi Arabia,pop,19966998.0
+2000,Saudi Arabia,pop,23153090.0
+2005,Saudi Arabia,pop,26417599.0
+1955,South Africa,pop,15368551.0
+1960,South Africa,pop,17416653.0
+1965,South Africa,pop,19898242.0
+1970,South Africa,pop,22739921.0
+1975,South Africa,pop,25815144.0
+1980,South Africa,pop,29251588.0
+1985,South Africa,pop,34254092.0
+1990,South Africa,pop,38391094.0
+1995,South Africa,pop,41779149.0
+2000,South Africa,pop,44066197.0
+2005,South Africa,pop,44344136.0
+1955,Spain,pop,29318745.0
+1960,Spain,pop,30641187.0
+1965,Spain,pop,32084511.0
+1970,Spain,pop,33876479.0
+1975,Spain,pop,35563535.0
+1980,Spain,pop,37488360.0
+1985,Spain,pop,38534853.0
+1990,Spain,pop,39350769.0
+1995,Spain,pop,39749715.0
+2000,Spain,pop,40016081.0
+2005,Spain,pop,40341462.0
+1955,Switzerland,pop,4980000.0
+1960,Switzerland,pop,5362000.0
+1965,Switzerland,pop,5943000.0
+1970,Switzerland,pop,6267000.0
+1975,Switzerland,pop,6403500.0
+1980,Switzerland,pop,6385229.0
+1985,Switzerland,pop,6563770.0
+1990,Switzerland,pop,6836626.0
+1995,Switzerland,pop,7157106.0
+2000,Switzerland,pop,7266920.0
+2005,Switzerland,pop,7489370.0
+1955,Turkey,pop,24144571.0
+1960,Turkey,pop,28217122.0
+1965,Turkey,pop,31950718.0
+1970,Turkey,pop,35758382.0
+1975,Turkey,pop,40529798.0
+1980,Turkey,pop,45120802.0
+1985,Turkey,pop,50669003.0
+1990,Turkey,pop,56084632.0
+1995,Turkey,pop,61188984.0
+2000,Turkey,pop,65666677.0
+2005,Turkey,pop,69660559.0
+1955,United Kingdom,pop,50946000.0
+1960,United Kingdom,pop,52372000.0
+1965,United Kingdom,pop,54350000.0
+1970,United Kingdom,pop,55632000.0
+1975,United Kingdom,pop,56215000.0
+1980,United Kingdom,pop,56314000.0
+1985,United Kingdom,pop,56620240.0
+1990,United Kingdom,pop,57493307.0
+1995,United Kingdom,pop,58426014.0
+2000,United Kingdom,pop,59522468.0
+2005,United Kingdom,pop,60441457.0
+1955,United States,pop,165931000.0
+1960,United States,pop,180671000.0
+1965,United States,pop,194303000.0
+1970,United States,pop,205052000.0
+1975,United States,pop,215973000.0
+1980,United States,pop,227726463.0
+1985,United States,pop,238466283.0
+1990,United States,pop,250131894.0
+1995,United States,pop,266557091.0
+2000,United States,pop,282338631.0
+2005,United States,pop,295734134.0
+1955,Venezuela,pop,6170497.0
+1960,Venezuela,pop,7556483.0
+1965,Venezuela,pop,9067735.0
+1970,Venezuela,pop,10758017.0
+1975,Venezuela,pop,12674987.0
+1980,Venezuela,pop,14767890.0
+1985,Venezuela,pop,16997509.0
+1990,Venezuela,pop,19325222.0
+1995,Venezuela,pop,21555902.0
+2000,Venezuela,pop,23542649.0
+2005,Venezuela,pop,25375281.0
+1955,Afghanistan,life_expect,30.332
+1960,Afghanistan,life_expect,31.997
+1965,Afghanistan,life_expect,34.02
+1970,Afghanistan,life_expect,36.088
+1975,Afghanistan,life_expect,38.438
+1980,Afghanistan,life_expect,39.854
+1985,Afghanistan,life_expect,40.822
+1990,Afghanistan,life_expect,41.674
+1995,Afghanistan,life_expect,41.763
+2000,Afghanistan,life_expect,42.129
+2005,Afghanistan,life_expect,43.828
+1955,Argentina,life_expect,64.399
+1960,Argentina,life_expect,65.142
+1965,Argentina,life_expect,65.634
+1970,Argentina,life_expect,67.065
+1975,Argentina,life_expect,68.481
+1980,Argentina,life_expect,69.942
+1985,Argentina,life_expect,70.774
+1990,Argentina,life_expect,71.868
+1995,Argentina,life_expect,73.275
+2000,Argentina,life_expect,74.34
+2005,Argentina,life_expect,75.32
+1955,Aruba,life_expect,64.381
+1960,Aruba,life_expect,66.606
+1965,Aruba,life_expect,68.336
+1970,Aruba,life_expect,70.941
+1975,Aruba,life_expect,71.83
+1980,Aruba,life_expect,74.116
+1985,Aruba,life_expect,74.494
+1990,Aruba,life_expect,74.108
+1995,Aruba,life_expect,73.011
+2000,Aruba,life_expect,73.451
+2005,Aruba,life_expect,74.239
+1955,Australia,life_expect,70.33
+1960,Australia,life_expect,70.93
+1965,Australia,life_expect,71.1
+1970,Australia,life_expect,71.93
+1975,Australia,life_expect,73.49
+1980,Australia,life_expect,74.74
+1985,Australia,life_expect,76.32
+1990,Australia,life_expect,77.56
+1995,Australia,life_expect,78.83
+2000,Australia,life_expect,80.37
+2005,Australia,life_expect,81.235
+1955,Austria,life_expect,67.48
+1960,Austria,life_expect,69.54
+1965,Austria,life_expect,70.14
+1970,Austria,life_expect,70.63
+1975,Austria,life_expect,72.17
+1980,Austria,life_expect,73.18
+1985,Austria,life_expect,74.94
+1990,Austria,life_expect,76.04
+1995,Austria,life_expect,77.51
+2000,Austria,life_expect,78.98
+2005,Austria,life_expect,79.829
+1955,Bahamas,life_expect,62.405
+1960,Bahamas,life_expect,64.209
+1965,Bahamas,life_expect,65.795
+1970,Bahamas,life_expect,66.515
+1975,Bahamas,life_expect,67.199
+1980,Bahamas,life_expect,67.874
+1985,Bahamas,life_expect,69.524
+1990,Bahamas,life_expect,69.171
+1995,Bahamas,life_expect,68.472
+2000,Bahamas,life_expect,71.068
+2005,Bahamas,life_expect,73.495
+1955,Bangladesh,life_expect,39.348
+1960,Bangladesh,life_expect,41.216
+1965,Bangladesh,life_expect,43.453
+1970,Bangladesh,life_expect,45.252
+1975,Bangladesh,life_expect,46.923
+1980,Bangladesh,life_expect,50.009
+1985,Bangladesh,life_expect,52.819
+1990,Bangladesh,life_expect,56.018
+1995,Bangladesh,life_expect,59.412
+2000,Bangladesh,life_expect,62.013
+2005,Bangladesh,life_expect,64.062
+1955,Barbados,life_expect,62.57
+1960,Barbados,life_expect,65.87
+1965,Barbados,life_expect,67.62
+1970,Barbados,life_expect,69.42
+1975,Barbados,life_expect,71.27
+1980,Barbados,life_expect,72.695
+1985,Barbados,life_expect,74.027
+1990,Barbados,life_expect,74.894
+1995,Barbados,life_expect,74.912
+2000,Barbados,life_expect,75.97
+2005,Barbados,life_expect,77.296
+1955,Belgium,life_expect,69.24
+1960,Belgium,life_expect,70.25
+1965,Belgium,life_expect,70.94
+1970,Belgium,life_expect,71.44
+1975,Belgium,life_expect,72.8
+1980,Belgium,life_expect,73.93
+1985,Belgium,life_expect,75.35
+1990,Belgium,life_expect,76.46
+1995,Belgium,life_expect,77.53
+2000,Belgium,life_expect,78.32
+2005,Belgium,life_expect,79.441
+1955,Bolivia,life_expect,41.89
+1960,Bolivia,life_expect,43.428
+1965,Bolivia,life_expect,45.032
+1970,Bolivia,life_expect,46.714
+1975,Bolivia,life_expect,50.023
+1980,Bolivia,life_expect,53.859
+1985,Bolivia,life_expect,57.251
+1990,Bolivia,life_expect,59.957
+1995,Bolivia,life_expect,62.05
+2000,Bolivia,life_expect,63.883
+2005,Bolivia,life_expect,65.554
+1955,Brazil,life_expect,53.285
+1960,Brazil,life_expect,55.665
+1965,Brazil,life_expect,57.632
+1970,Brazil,life_expect,59.504
+1975,Brazil,life_expect,61.489
+1980,Brazil,life_expect,63.336
+1985,Brazil,life_expect,65.205
+1990,Brazil,life_expect,67.057
+1995,Brazil,life_expect,69.388
+2000,Brazil,life_expect,71.006
+2005,Brazil,life_expect,72.39
+1955,Canada,life_expect,69.96
+1960,Canada,life_expect,71.3
+1965,Canada,life_expect,72.13
+1970,Canada,life_expect,72.88
+1975,Canada,life_expect,74.21
+1980,Canada,life_expect,75.76
+1985,Canada,life_expect,76.86
+1990,Canada,life_expect,77.95
+1995,Canada,life_expect,78.61
+2000,Canada,life_expect,79.77
+2005,Canada,life_expect,80.653
+1955,Chile,life_expect,56.074
+1960,Chile,life_expect,57.924
+1965,Chile,life_expect,60.523
+1970,Chile,life_expect,63.441
+1975,Chile,life_expect,67.052
+1980,Chile,life_expect,70.565
+1985,Chile,life_expect,72.492
+1990,Chile,life_expect,74.126
+1995,Chile,life_expect,75.816
+2000,Chile,life_expect,77.86
+2005,Chile,life_expect,78.553
+1955,China,life_expect,50.54896
+1960,China,life_expect,44.50136
+1965,China,life_expect,58.38112
+1970,China,life_expect,63.11888
+1975,China,life_expect,63.96736
+1980,China,life_expect,65.525
+1985,China,life_expect,67.274
+1990,China,life_expect,68.69
+1995,China,life_expect,70.426
+2000,China,life_expect,72.028
+2005,China,life_expect,72.961
+1955,Colombia,life_expect,55.118
+1960,Colombia,life_expect,57.863
+1965,Colombia,life_expect,59.963
+1970,Colombia,life_expect,61.623
+1975,Colombia,life_expect,63.837
+1980,Colombia,life_expect,66.653
+1985,Colombia,life_expect,67.768
+1990,Colombia,life_expect,68.421
+1995,Colombia,life_expect,70.313
+2000,Colombia,life_expect,71.682
+2005,Colombia,life_expect,72.889
+1955,Costa Rica,life_expect,60.026
+1960,Costa Rica,life_expect,62.842
+1965,Costa Rica,life_expect,65.424
+1970,Costa Rica,life_expect,67.849
+1975,Costa Rica,life_expect,70.75
+1980,Costa Rica,life_expect,73.45
+1985,Costa Rica,life_expect,74.752
+1990,Costa Rica,life_expect,75.713
+1995,Costa Rica,life_expect,77.26
+2000,Costa Rica,life_expect,78.123
+2005,Costa Rica,life_expect,78.782
+1955,Croatia,life_expect,64.77
+1960,Croatia,life_expect,67.13
+1965,Croatia,life_expect,68.5
+1970,Croatia,life_expect,69.61
+1975,Croatia,life_expect,70.64
+1980,Croatia,life_expect,70.46
+1985,Croatia,life_expect,71.52
+1990,Croatia,life_expect,72.527
+1995,Croatia,life_expect,73.68
+2000,Croatia,life_expect,74.876
+2005,Croatia,life_expect,75.748
+1955,Cuba,life_expect,62.325
+1960,Cuba,life_expect,65.246
+1965,Cuba,life_expect,68.29
+1970,Cuba,life_expect,70.723
+1975,Cuba,life_expect,72.649
+1980,Cuba,life_expect,73.717
+1985,Cuba,life_expect,74.174
+1990,Cuba,life_expect,74.414
+1995,Cuba,life_expect,76.151
+2000,Cuba,life_expect,77.158
+2005,Cuba,life_expect,78.273
+1955,Dominican Republic,life_expect,49.828
+1960,Dominican Republic,life_expect,53.459
+1965,Dominican Republic,life_expect,56.751
+1970,Dominican Republic,life_expect,59.631
+1975,Dominican Republic,life_expect,61.788
+1980,Dominican Republic,life_expect,63.727
+1985,Dominican Republic,life_expect,66.046
+1990,Dominican Republic,life_expect,68.457
+1995,Dominican Republic,life_expect,69.957
+2000,Dominican Republic,life_expect,70.847
+2005,Dominican Republic,life_expect,72.235
+1955,Ecuador,life_expect,51.356
+1960,Ecuador,life_expect,54.64
+1965,Ecuador,life_expect,56.678
+1970,Ecuador,life_expect,58.796
+1975,Ecuador,life_expect,61.31
+1980,Ecuador,life_expect,64.342
+1985,Ecuador,life_expect,67.231
+1990,Ecuador,life_expect,69.613
+1995,Ecuador,life_expect,72.312
+2000,Ecuador,life_expect,74.173
+2005,Ecuador,life_expect,74.994
+1955,Egypt,life_expect,44.444
+1960,Egypt,life_expect,46.992
+1965,Egypt,life_expect,49.293
+1970,Egypt,life_expect,51.137
+1975,Egypt,life_expect,53.319
+1980,Egypt,life_expect,56.006
+1985,Egypt,life_expect,59.797
+1990,Egypt,life_expect,63.674
+1995,Egypt,life_expect,67.217
+2000,Egypt,life_expect,69.806
+2005,Egypt,life_expect,71.338
+1955,El Salvador,life_expect,48.57
+1960,El Salvador,life_expect,52.307
+1965,El Salvador,life_expect,55.855
+1970,El Salvador,life_expect,58.207
+1975,El Salvador,life_expect,56.696
+1980,El Salvador,life_expect,56.604
+1985,El Salvador,life_expect,63.154
+1990,El Salvador,life_expect,66.798
+1995,El Salvador,life_expect,69.535
+2000,El Salvador,life_expect,70.734
+2005,El Salvador,life_expect,71.878
+1955,Finland,life_expect,67.49
+1960,Finland,life_expect,68.75
+1965,Finland,life_expect,69.83
+1970,Finland,life_expect,70.87
+1975,Finland,life_expect,72.52
+1980,Finland,life_expect,74.55
+1985,Finland,life_expect,74.83
+1990,Finland,life_expect,75.7
+1995,Finland,life_expect,77.13
+2000,Finland,life_expect,78.37
+2005,Finland,life_expect,79.313
+1955,France,life_expect,68.93
+1960,France,life_expect,70.51
+1965,France,life_expect,71.55
+1970,France,life_expect,72.38
+1975,France,life_expect,73.83
+1980,France,life_expect,74.89
+1985,France,life_expect,76.34
+1990,France,life_expect,77.46
+1995,France,life_expect,78.64
+2000,France,life_expect,79.59
+2005,France,life_expect,80.657
+1955,Georgia,life_expect,62.625
+1960,Georgia,life_expect,64.644
+1965,Georgia,life_expect,66.654
+1970,Georgia,life_expect,68.158
+1975,Georgia,life_expect,69.634
+1980,Georgia,life_expect,69.638
+1985,Georgia,life_expect,70.45
+1990,Georgia,life_expect,70.465
+1995,Georgia,life_expect,70.49
+2000,Georgia,life_expect,70.476
+2005,Georgia,life_expect,70.987
+1955,Germany,life_expect,69.1
+1960,Germany,life_expect,70.3
+1965,Germany,life_expect,70.8
+1970,Germany,life_expect,71.0
+1975,Germany,life_expect,72.5
+1980,Germany,life_expect,73.8
+1985,Germany,life_expect,74.847
+1990,Germany,life_expect,76.07
+1995,Germany,life_expect,77.34
+2000,Germany,life_expect,78.67
+2005,Germany,life_expect,79.406
+1955,Greece,life_expect,67.86
+1960,Greece,life_expect,69.51
+1965,Greece,life_expect,71.0
+1970,Greece,life_expect,72.34
+1975,Greece,life_expect,73.68
+1980,Greece,life_expect,75.24
+1985,Greece,life_expect,76.67
+1990,Greece,life_expect,77.03
+1995,Greece,life_expect,77.869
+2000,Greece,life_expect,78.256
+2005,Greece,life_expect,79.483
+1955,Grenada,life_expect,63.114
+1960,Grenada,life_expect,63.608
+1965,Grenada,life_expect,64.091
+1970,Grenada,life_expect,64.577
+1975,Grenada,life_expect,65.035
+1980,Grenada,life_expect,65.503
+1985,Grenada,life_expect,66.002
+1990,Grenada,life_expect,66.469
+1995,Grenada,life_expect,66.986
+2000,Grenada,life_expect,67.746
+2005,Grenada,life_expect,68.724
+1955,Haiti,life_expect,40.696
+1960,Haiti,life_expect,43.59
+1965,Haiti,life_expect,46.243
+1970,Haiti,life_expect,48.042
+1975,Haiti,life_expect,49.923
+1980,Haiti,life_expect,51.461
+1985,Haiti,life_expect,53.636
+1990,Haiti,life_expect,55.089
+1995,Haiti,life_expect,56.671
+2000,Haiti,life_expect,58.137
+2005,Haiti,life_expect,60.916
+1955,Hong Kong,life_expect,64.75
+1960,Hong Kong,life_expect,67.65
+1965,Hong Kong,life_expect,70.0
+1970,Hong Kong,life_expect,72.0
+1975,Hong Kong,life_expect,73.6
+1980,Hong Kong,life_expect,75.45
+1985,Hong Kong,life_expect,76.2
+1990,Hong Kong,life_expect,77.601
+1995,Hong Kong,life_expect,80.0
+2000,Hong Kong,life_expect,81.495
+2005,Hong Kong,life_expect,82.208
+1955,Iceland,life_expect,73.47
+1960,Iceland,life_expect,73.68
+1965,Iceland,life_expect,73.73
+1970,Iceland,life_expect,74.46
+1975,Iceland,life_expect,76.11
+1980,Iceland,life_expect,76.99
+1985,Iceland,life_expect,77.23
+1990,Iceland,life_expect,78.77
+1995,Iceland,life_expect,78.95
+2000,Iceland,life_expect,80.5
+2005,Iceland,life_expect,81.757
+1955,India,life_expect,40.249
+1960,India,life_expect,43.605
+1965,India,life_expect,47.193
+1970,India,life_expect,50.651
+1975,India,life_expect,54.208
+1980,India,life_expect,56.596
+1985,India,life_expect,58.553
+1990,India,life_expect,60.223
+1995,India,life_expect,61.765
+2000,India,life_expect,62.879
+2005,India,life_expect,64.698
+1955,Indonesia,life_expect,39.918
+1960,Indonesia,life_expect,42.518
+1965,Indonesia,life_expect,45.964
+1970,Indonesia,life_expect,49.203
+1975,Indonesia,life_expect,52.702
+1980,Indonesia,life_expect,56.159
+1985,Indonesia,life_expect,60.137
+1990,Indonesia,life_expect,62.681
+1995,Indonesia,life_expect,66.041
+2000,Indonesia,life_expect,68.588
+2005,Indonesia,life_expect,70.65
+1955,Iran,life_expect,47.181
+1960,Iran,life_expect,49.325
+1965,Iran,life_expect,52.469
+1970,Iran,life_expect,55.234
+1975,Iran,life_expect,57.702
+1980,Iran,life_expect,59.62
+1985,Iran,life_expect,63.04
+1990,Iran,life_expect,65.742
+1995,Iran,life_expect,68.042
+2000,Iran,life_expect,69.451
+2005,Iran,life_expect,70.964
+1955,Iraq,life_expect,48.437
+1960,Iraq,life_expect,51.457
+1965,Iraq,life_expect,54.459
+1970,Iraq,life_expect,56.95
+1975,Iraq,life_expect,60.413
+1980,Iraq,life_expect,62.038
+1985,Iraq,life_expect,65.044
+1990,Iraq,life_expect,59.461
+1995,Iraq,life_expect,58.811
+2000,Iraq,life_expect,57.046
+2005,Iraq,life_expect,59.545
+1955,Ireland,life_expect,68.9
+1960,Ireland,life_expect,70.29
+1965,Ireland,life_expect,71.08
+1970,Ireland,life_expect,71.28
+1975,Ireland,life_expect,72.03
+1980,Ireland,life_expect,73.1
+1985,Ireland,life_expect,74.36
+1990,Ireland,life_expect,75.467
+1995,Ireland,life_expect,76.122
+2000,Ireland,life_expect,77.783
+2005,Ireland,life_expect,78.885
+1955,Israel,life_expect,67.84
+1960,Israel,life_expect,69.39
+1965,Israel,life_expect,70.75
+1970,Israel,life_expect,71.63
+1975,Israel,life_expect,73.06
+1980,Israel,life_expect,74.45
+1985,Israel,life_expect,75.6
+1990,Israel,life_expect,76.93
+1995,Israel,life_expect,78.269
+2000,Israel,life_expect,79.696
+2005,Israel,life_expect,80.745
+1955,Italy,life_expect,67.81
+1960,Italy,life_expect,69.24
+1965,Italy,life_expect,71.06
+1970,Italy,life_expect,72.19
+1975,Italy,life_expect,73.48
+1980,Italy,life_expect,74.98
+1985,Italy,life_expect,76.42
+1990,Italy,life_expect,77.44
+1995,Italy,life_expect,78.82
+2000,Italy,life_expect,80.24
+2005,Italy,life_expect,80.546
+1955,Jamaica,life_expect,62.61
+1960,Jamaica,life_expect,65.61
+1965,Jamaica,life_expect,67.51
+1970,Jamaica,life_expect,69.0
+1975,Jamaica,life_expect,70.11
+1980,Jamaica,life_expect,71.21
+1985,Jamaica,life_expect,71.77
+1990,Jamaica,life_expect,71.766
+1995,Jamaica,life_expect,72.262
+2000,Jamaica,life_expect,72.047
+2005,Jamaica,life_expect,72.567
+1955,Japan,life_expect,65.5
+1960,Japan,life_expect,68.73
+1965,Japan,life_expect,71.43
+1970,Japan,life_expect,73.42
+1975,Japan,life_expect,75.38
+1980,Japan,life_expect,77.11
+1985,Japan,life_expect,78.67
+1990,Japan,life_expect,79.36
+1995,Japan,life_expect,80.69
+2000,Japan,life_expect,82.0
+2005,Japan,life_expect,82.603
+1955,Kenya,life_expect,44.686
+1960,Kenya,life_expect,47.949
+1965,Kenya,life_expect,50.654
+1970,Kenya,life_expect,53.559
+1975,Kenya,life_expect,56.155
+1980,Kenya,life_expect,58.766
+1985,Kenya,life_expect,59.339
+1990,Kenya,life_expect,59.285
+1995,Kenya,life_expect,54.407
+2000,Kenya,life_expect,50.992
+2005,Kenya,life_expect,54.11
+1955,South Korea,life_expect,54.081
+1960,South Korea,life_expect,56.656
+1965,South Korea,life_expect,59.942
+1970,South Korea,life_expect,63.983
+1975,South Korea,life_expect,67.159
+1980,South Korea,life_expect,69.1
+1985,South Korea,life_expect,70.647
+1990,South Korea,life_expect,69.978
+1995,South Korea,life_expect,67.727
+2000,South Korea,life_expect,66.662
+2005,South Korea,life_expect,67.297
+1955,North Korea,life_expect,52.681
+1960,North Korea,life_expect,55.292
+1965,North Korea,life_expect,57.716
+1970,North Korea,life_expect,62.612
+1975,North Korea,life_expect,64.766
+1980,North Korea,life_expect,67.123
+1985,North Korea,life_expect,69.81
+1990,North Korea,life_expect,72.244
+1995,North Korea,life_expect,74.647
+2000,North Korea,life_expect,77.045
+2005,North Korea,life_expect,78.623
+1955,Lebanon,life_expect,59.489
+1960,Lebanon,life_expect,62.094
+1965,Lebanon,life_expect,63.87
+1970,Lebanon,life_expect,65.421
+1975,Lebanon,life_expect,66.099
+1980,Lebanon,life_expect,66.983
+1985,Lebanon,life_expect,67.926
+1990,Lebanon,life_expect,69.292
+1995,Lebanon,life_expect,70.265
+2000,Lebanon,life_expect,71.028
+2005,Lebanon,life_expect,71.993
+1955,Mexico,life_expect,55.19
+1960,Mexico,life_expect,58.299
+1965,Mexico,life_expect,60.11
+1970,Mexico,life_expect,62.361
+1975,Mexico,life_expect,65.032
+1980,Mexico,life_expect,67.405
+1985,Mexico,life_expect,69.498
+1990,Mexico,life_expect,71.455
+1995,Mexico,life_expect,73.67
+2000,Mexico,life_expect,74.902
+2005,Mexico,life_expect,76.195
+1955,Netherlands,life_expect,72.99
+1960,Netherlands,life_expect,73.23
+1965,Netherlands,life_expect,73.82
+1970,Netherlands,life_expect,73.75
+1975,Netherlands,life_expect,75.24
+1980,Netherlands,life_expect,76.05
+1985,Netherlands,life_expect,76.83
+1990,Netherlands,life_expect,77.42
+1995,Netherlands,life_expect,78.03
+2000,Netherlands,life_expect,78.53
+2005,Netherlands,life_expect,79.762
+1955,New Zealand,life_expect,70.26
+1960,New Zealand,life_expect,71.24
+1965,New Zealand,life_expect,71.52
+1970,New Zealand,life_expect,71.89
+1975,New Zealand,life_expect,72.22
+1980,New Zealand,life_expect,73.84
+1985,New Zealand,life_expect,74.32
+1990,New Zealand,life_expect,76.33
+1995,New Zealand,life_expect,77.55
+2000,New Zealand,life_expect,79.11
+2005,New Zealand,life_expect,80.204
+1955,Nigeria,life_expect,37.802
+1960,Nigeria,life_expect,39.36
+1965,Nigeria,life_expect,41.04
+1970,Nigeria,life_expect,42.821
+1975,Nigeria,life_expect,44.514
+1980,Nigeria,life_expect,45.826
+1985,Nigeria,life_expect,46.886
+1990,Nigeria,life_expect,47.472
+1995,Nigeria,life_expect,47.464
+2000,Nigeria,life_expect,46.608
+2005,Nigeria,life_expect,46.859
+1955,Norway,life_expect,73.44
+1960,Norway,life_expect,73.47
+1965,Norway,life_expect,74.08
+1970,Norway,life_expect,74.34
+1975,Norway,life_expect,75.37
+1980,Norway,life_expect,75.97
+1985,Norway,life_expect,75.89
+1990,Norway,life_expect,77.32
+1995,Norway,life_expect,78.32
+2000,Norway,life_expect,79.05
+2005,Norway,life_expect,80.196
+1955,Pakistan,life_expect,45.557
+1960,Pakistan,life_expect,47.67
+1965,Pakistan,life_expect,49.8
+1970,Pakistan,life_expect,51.929
+1975,Pakistan,life_expect,54.043
+1980,Pakistan,life_expect,56.158
+1985,Pakistan,life_expect,58.245
+1990,Pakistan,life_expect,60.838
+1995,Pakistan,life_expect,61.818
+2000,Pakistan,life_expect,63.61
+2005,Pakistan,life_expect,65.483
+1955,Peru,life_expect,46.263
+1960,Peru,life_expect,49.096
+1965,Peru,life_expect,51.445
+1970,Peru,life_expect,55.448
+1975,Peru,life_expect,58.447
+1980,Peru,life_expect,61.406
+1985,Peru,life_expect,64.134
+1990,Peru,life_expect,66.458
+1995,Peru,life_expect,68.386
+2000,Peru,life_expect,69.906
+2005,Peru,life_expect,71.421
+1955,Philippines,life_expect,51.334
+1960,Philippines,life_expect,54.757
+1965,Philippines,life_expect,56.393
+1970,Philippines,life_expect,58.065
+1975,Philippines,life_expect,60.06
+1980,Philippines,life_expect,62.082
+1985,Philippines,life_expect,64.151
+1990,Philippines,life_expect,66.458
+1995,Philippines,life_expect,68.564
+2000,Philippines,life_expect,70.303
+2005,Philippines,life_expect,71.688
+1955,Poland,life_expect,65.77
+1960,Poland,life_expect,67.64
+1965,Poland,life_expect,69.61
+1970,Poland,life_expect,70.85
+1975,Poland,life_expect,70.67
+1980,Poland,life_expect,71.32
+1985,Poland,life_expect,70.98
+1990,Poland,life_expect,70.99
+1995,Poland,life_expect,72.75
+2000,Poland,life_expect,74.67
+2005,Poland,life_expect,75.563
+1955,Portugal,life_expect,61.51
+1960,Portugal,life_expect,64.39
+1965,Portugal,life_expect,66.6
+1970,Portugal,life_expect,69.26
+1975,Portugal,life_expect,70.41
+1980,Portugal,life_expect,72.77
+1985,Portugal,life_expect,74.06
+1990,Portugal,life_expect,74.86
+1995,Portugal,life_expect,75.97
+2000,Portugal,life_expect,77.29
+2005,Portugal,life_expect,78.098
+1955,Rwanda,life_expect,41.5
+1960,Rwanda,life_expect,43.0
+1965,Rwanda,life_expect,44.1
+1970,Rwanda,life_expect,44.6
+1975,Rwanda,life_expect,45.0
+1980,Rwanda,life_expect,46.218
+1985,Rwanda,life_expect,44.02
+1990,Rwanda,life_expect,23.599
+1995,Rwanda,life_expect,36.087
+2000,Rwanda,life_expect,43.413
+2005,Rwanda,life_expect,46.242
+1955,Saudi Arabia,life_expect,42.868
+1960,Saudi Arabia,life_expect,45.914
+1965,Saudi Arabia,life_expect,49.901
+1970,Saudi Arabia,life_expect,53.886
+1975,Saudi Arabia,life_expect,58.69
+1980,Saudi Arabia,life_expect,63.012
+1985,Saudi Arabia,life_expect,66.295
+1990,Saudi Arabia,life_expect,68.768
+1995,Saudi Arabia,life_expect,70.533
+2000,Saudi Arabia,life_expect,71.626
+2005,Saudi Arabia,life_expect,72.777
+1955,South Africa,life_expect,47.985
+1960,South Africa,life_expect,49.951
+1965,South Africa,life_expect,51.927
+1970,South Africa,life_expect,53.696
+1975,South Africa,life_expect,55.527
+1980,South Africa,life_expect,58.161
+1985,South Africa,life_expect,60.834
+1990,South Africa,life_expect,61.888
+1995,South Africa,life_expect,60.236
+2000,South Africa,life_expect,53.365
+2005,South Africa,life_expect,49.339
+1955,Spain,life_expect,66.66
+1960,Spain,life_expect,69.69
+1965,Spain,life_expect,71.44
+1970,Spain,life_expect,73.06
+1975,Spain,life_expect,74.39
+1980,Spain,life_expect,76.3
+1985,Spain,life_expect,76.9
+1990,Spain,life_expect,77.57
+1995,Spain,life_expect,78.77
+2000,Spain,life_expect,79.78
+2005,Spain,life_expect,80.941
+1955,Switzerland,life_expect,70.56
+1960,Switzerland,life_expect,71.32
+1965,Switzerland,life_expect,72.77
+1970,Switzerland,life_expect,73.78
+1975,Switzerland,life_expect,75.39
+1980,Switzerland,life_expect,76.21
+1985,Switzerland,life_expect,77.41
+1990,Switzerland,life_expect,78.03
+1995,Switzerland,life_expect,79.37
+2000,Switzerland,life_expect,80.62
+2005,Switzerland,life_expect,81.701
+1955,Turkey,life_expect,48.079
+1960,Turkey,life_expect,52.098
+1965,Turkey,life_expect,54.336
+1970,Turkey,life_expect,57.005
+1975,Turkey,life_expect,59.507
+1980,Turkey,life_expect,61.036
+1985,Turkey,life_expect,63.108
+1990,Turkey,life_expect,66.146
+1995,Turkey,life_expect,68.835
+2000,Turkey,life_expect,70.845
+2005,Turkey,life_expect,71.777
+1955,United Kingdom,life_expect,70.42
+1960,United Kingdom,life_expect,70.76
+1965,United Kingdom,life_expect,71.36
+1970,United Kingdom,life_expect,72.01
+1975,United Kingdom,life_expect,72.76
+1980,United Kingdom,life_expect,74.04
+1985,United Kingdom,life_expect,75.007
+1990,United Kingdom,life_expect,76.42
+1995,United Kingdom,life_expect,77.218
+2000,United Kingdom,life_expect,78.471
+2005,United Kingdom,life_expect,79.425
+1955,United States,life_expect,69.49
+1960,United States,life_expect,70.21
+1965,United States,life_expect,70.76
+1970,United States,life_expect,71.34
+1975,United States,life_expect,73.38
+1980,United States,life_expect,74.65
+1985,United States,life_expect,75.02
+1990,United States,life_expect,76.09
+1995,United States,life_expect,76.81
+2000,United States,life_expect,77.31
+2005,United States,life_expect,78.242
+1955,Venezuela,life_expect,57.907
+1960,Venezuela,life_expect,60.77
+1965,Venezuela,life_expect,63.479
+1970,Venezuela,life_expect,65.712
+1975,Venezuela,life_expect,67.456
+1980,Venezuela,life_expect,68.557
+1985,Venezuela,life_expect,70.19
+1990,Venezuela,life_expect,71.15
+1995,Venezuela,life_expect,72.146
+2000,Venezuela,life_expect,72.766
+2005,Venezuela,life_expect,73.747
+1955,Afghanistan,fertility,7.7
+1960,Afghanistan,fertility,7.7
+1965,Afghanistan,fertility,7.7
+1970,Afghanistan,fertility,7.7
+1975,Afghanistan,fertility,7.7
+1980,Afghanistan,fertility,7.8
+1985,Afghanistan,fertility,7.9
+1990,Afghanistan,fertility,8.0
+1995,Afghanistan,fertility,8.0
+2000,Afghanistan,fertility,7.4792
+2005,Afghanistan,fertility,7.0685
+1955,Argentina,fertility,3.1265
+1960,Argentina,fertility,3.0895
+1965,Argentina,fertility,3.049
+1970,Argentina,fertility,3.1455
+1975,Argentina,fertility,3.44
+1980,Argentina,fertility,3.15
+1985,Argentina,fertility,3.053
+1990,Argentina,fertility,2.9
+1995,Argentina,fertility,2.63
+2000,Argentina,fertility,2.35
+2005,Argentina,fertility,2.254
+1955,Aruba,fertility,5.15
+1960,Aruba,fertility,4.399
+1965,Aruba,fertility,3.301
+1970,Aruba,fertility,2.651
+1975,Aruba,fertility,2.45
+1980,Aruba,fertility,2.358
+1985,Aruba,fertility,2.3
+1990,Aruba,fertility,2.2800000000000002
+1995,Aruba,fertility,2.208
+2000,Aruba,fertility,2.124
+2005,Aruba,fertility,2.04
+1955,Australia,fertility,3.406
+1960,Australia,fertility,3.274
+1965,Australia,fertility,2.871
+1970,Australia,fertility,2.535
+1975,Australia,fertility,1.9889999999999999
+1980,Australia,fertility,1.907
+1985,Australia,fertility,1.859
+1990,Australia,fertility,1.8599999999999999
+1995,Australia,fertility,1.776
+2000,Australia,fertility,1.756
+2005,Australia,fertility,1.788
+1955,Austria,fertility,2.52
+1960,Austria,fertility,2.7800000000000002
+1965,Austria,fertility,2.5300000000000002
+1970,Austria,fertility,2.02
+1975,Austria,fertility,1.6400000000000001
+1980,Austria,fertility,1.62
+1985,Austria,fertility,1.45
+1990,Austria,fertility,1.47
+1995,Austria,fertility,1.388
+2000,Austria,fertility,1.3820000000000001
+2005,Austria,fertility,1.42
+1955,Bahamas,fertility,4.305
+1960,Bahamas,fertility,4.503
+1965,Bahamas,fertility,3.794
+1970,Bahamas,fertility,3.444
+1975,Bahamas,fertility,3.221
+1980,Bahamas,fertility,3.16
+1985,Bahamas,fertility,2.62
+1990,Bahamas,fertility,2.6
+1995,Bahamas,fertility,2.4
+2000,Bahamas,fertility,2.1111
+2005,Bahamas,fertility,2.0221
+1955,Bangladesh,fertility,6.76
+1960,Bangladesh,fertility,6.85
+1965,Bangladesh,fertility,6.6
+1970,Bangladesh,fertility,6.15
+1975,Bangladesh,fertility,5.6
+1980,Bangladesh,fertility,5.25
+1985,Bangladesh,fertility,4.629
+1990,Bangladesh,fertility,4.117
+1995,Bangladesh,fertility,3.5042999999999997
+2000,Bangladesh,fertility,3.224
+2005,Bangladesh,fertility,2.826
+1955,Barbados,fertility,4.67
+1960,Barbados,fertility,4.26
+1965,Barbados,fertility,3.45
+1970,Barbados,fertility,2.74
+1975,Barbados,fertility,2.19
+1980,Barbados,fertility,1.92
+1985,Barbados,fertility,1.75
+1990,Barbados,fertility,1.6
+1995,Barbados,fertility,1.5
+2000,Barbados,fertility,1.5
+2005,Barbados,fertility,1.5
+1955,Belgium,fertility,2.496
+1960,Belgium,fertility,2.644
+1965,Belgium,fertility,2.392
+1970,Belgium,fertility,2.015
+1975,Belgium,fertility,1.705
+1980,Belgium,fertility,1.595
+1985,Belgium,fertility,1.5590000000000002
+1990,Belgium,fertility,1.613
+1995,Belgium,fertility,1.604
+2000,Belgium,fertility,1.638
+2005,Belgium,fertility,1.646
+1955,Bolivia,fertility,6.75
+1960,Bolivia,fertility,6.63
+1965,Bolivia,fertility,6.5600000000000005
+1970,Bolivia,fertility,6.5
+1975,Bolivia,fertility,5.8
+1980,Bolivia,fertility,5.2995
+1985,Bolivia,fertility,5.0
+1990,Bolivia,fertility,4.8
+1995,Bolivia,fertility,4.324
+2000,Bolivia,fertility,3.9585
+2005,Bolivia,fertility,3.5
+1955,Brazil,fertility,6.1501
+1960,Brazil,fertility,6.1501
+1965,Brazil,fertility,5.38
+1970,Brazil,fertility,4.7175
+1975,Brazil,fertility,4.305
+1980,Brazil,fertility,3.8
+1985,Brazil,fertility,3.1
+1990,Brazil,fertility,2.6
+1995,Brazil,fertility,2.45
+2000,Brazil,fertility,2.345
+2005,Brazil,fertility,2.245
+1955,Canada,fertility,3.882
+1960,Canada,fertility,3.675
+1965,Canada,fertility,2.61
+1970,Canada,fertility,1.976
+1975,Canada,fertility,1.734
+1980,Canada,fertility,1.634
+1985,Canada,fertility,1.616
+1990,Canada,fertility,1.694
+1995,Canada,fertility,1.564
+2000,Canada,fertility,1.522
+2005,Canada,fertility,1.5270000000000001
+1955,Chile,fertility,5.486
+1960,Chile,fertility,5.4385
+1965,Chile,fertility,4.4405
+1970,Chile,fertility,3.63
+1975,Chile,fertility,2.803
+1980,Chile,fertility,2.6710000000000003
+1985,Chile,fertility,2.65
+1990,Chile,fertility,2.55
+1995,Chile,fertility,2.21
+2000,Chile,fertility,2.0
+2005,Chile,fertility,1.944
+1955,China,fertility,5.59
+1960,China,fertility,5.72
+1965,China,fertility,6.06
+1970,China,fertility,4.86
+1975,China,fertility,3.32
+1980,China,fertility,2.55
+1985,China,fertility,2.46
+1990,China,fertility,1.92
+1995,China,fertility,1.7810000000000001
+2000,China,fertility,1.7000000000000002
+2005,China,fertility,1.725
+1955,Colombia,fertility,6.76
+1960,Colombia,fertility,6.76
+1965,Colombia,fertility,6.18
+1970,Colombia,fertility,5.0005
+1975,Colombia,fertility,4.3385
+1980,Colombia,fertility,3.685
+1985,Colombia,fertility,3.172
+1990,Colombia,fertility,2.93005
+1995,Colombia,fertility,2.7
+2000,Colombia,fertility,2.4705
+2005,Colombia,fertility,2.2205
+1955,Costa Rica,fertility,7.1135
+1960,Costa Rica,fertility,7.2245
+1965,Costa Rica,fertility,5.801
+1970,Costa Rica,fertility,4.346
+1975,Costa Rica,fertility,3.7755
+1980,Costa Rica,fertility,3.527
+1985,Costa Rica,fertility,3.374
+1990,Costa Rica,fertility,2.9450000000000003
+1995,Costa Rica,fertility,2.5835
+2000,Costa Rica,fertility,2.2815
+2005,Costa Rica,fertility,2.0985
+1955,Croatia,fertility,2.42
+1960,Croatia,fertility,2.27
+1965,Croatia,fertility,2.09
+1970,Croatia,fertility,1.96
+1975,Croatia,fertility,2.02
+1980,Croatia,fertility,1.96
+1985,Croatia,fertility,1.8399999999999999
+1990,Croatia,fertility,1.52
+1995,Croatia,fertility,1.537
+2000,Croatia,fertility,1.348
+2005,Croatia,fertility,1.346
+1955,Cuba,fertility,3.6995
+1960,Cuba,fertility,4.6805
+1965,Cuba,fertility,4.3
+1970,Cuba,fertility,3.6
+1975,Cuba,fertility,2.15
+1980,Cuba,fertility,1.8495
+1985,Cuba,fertility,1.8495
+1990,Cuba,fertility,1.6505
+1995,Cuba,fertility,1.6095000000000002
+2000,Cuba,fertility,1.63
+2005,Cuba,fertility,1.49
+1955,Dominican Republic,fertility,7.6405
+1960,Dominican Republic,fertility,7.3505
+1965,Dominican Republic,fertility,6.6495
+1970,Dominican Republic,fertility,5.71
+1975,Dominican Republic,fertility,4.76
+1980,Dominican Republic,fertility,4.0
+1985,Dominican Republic,fertility,3.47
+1990,Dominican Republic,fertility,3.1995
+1995,Dominican Republic,fertility,3.05
+2000,Dominican Republic,fertility,2.95
+2005,Dominican Republic,fertility,2.81
+1955,Ecuador,fertility,6.7
+1960,Ecuador,fertility,6.7
+1965,Ecuador,fertility,6.5
+1970,Ecuador,fertility,6.0005
+1975,Ecuador,fertility,5.4005
+1980,Ecuador,fertility,4.7005
+1985,Ecuador,fertility,4.0
+1990,Ecuador,fertility,3.4005
+1995,Ecuador,fertility,3.1
+2000,Ecuador,fertility,2.8175
+2005,Ecuador,fertility,2.578
+1955,Egypt,fertility,6.97
+1960,Egypt,fertility,7.073
+1965,Egypt,fertility,6.5600000000000005
+1970,Egypt,fertility,5.855
+1975,Egypt,fertility,5.609
+1980,Egypt,fertility,5.332
+1985,Egypt,fertility,4.833
+1990,Egypt,fertility,3.908
+1995,Egypt,fertility,3.5
+2000,Egypt,fertility,3.174
+2005,Egypt,fertility,2.891
+1955,El Salvador,fertility,6.8065
+1960,El Salvador,fertility,6.8469999999999995
+1965,El Salvador,fertility,6.621
+1970,El Salvador,fertility,6.0995
+1975,El Salvador,fertility,5.5996
+1980,El Salvador,fertility,4.5
+1985,El Salvador,fertility,3.901
+1990,El Salvador,fertility,3.52
+1995,El Salvador,fertility,3.17
+2000,El Salvador,fertility,2.883
+2005,El Salvador,fertility,2.6825
+1955,Finland,fertility,2.769
+1960,Finland,fertility,2.66
+1965,Finland,fertility,2.191
+1970,Finland,fertility,1.623
+1975,Finland,fertility,1.663
+1980,Finland,fertility,1.685
+1985,Finland,fertility,1.6600000000000001
+1990,Finland,fertility,1.819
+1995,Finland,fertility,1.7429999999999999
+2000,Finland,fertility,1.754
+2005,Finland,fertility,1.8250000000000002
+1955,France,fertility,2.7119999999999997
+1960,France,fertility,2.85
+1965,France,fertility,2.607
+1970,France,fertility,2.31
+1975,France,fertility,1.862
+1980,France,fertility,1.866
+1985,France,fertility,1.8050000000000002
+1990,France,fertility,1.713
+1995,France,fertility,1.7624
+2000,France,fertility,1.8833000000000002
+2005,France,fertility,1.8916
+1955,Georgia,fertility,2.909
+1960,Georgia,fertility,2.979
+1965,Georgia,fertility,2.6109999999999998
+1970,Georgia,fertility,2.601
+1975,Georgia,fertility,2.39
+1980,Georgia,fertility,2.269
+1985,Georgia,fertility,2.263
+1990,Georgia,fertility,1.9500000000000002
+1995,Georgia,fertility,1.58
+2000,Georgia,fertility,1.478
+2005,Georgia,fertility,1.407
+1955,Germany,fertility,2.3
+1960,Germany,fertility,2.49
+1965,Germany,fertility,2.32
+1970,Germany,fertility,1.6400000000000001
+1975,Germany,fertility,1.52
+1980,Germany,fertility,1.46
+1985,Germany,fertility,1.43
+1990,Germany,fertility,1.31
+1995,Germany,fertility,1.34
+2000,Germany,fertility,1.346
+2005,Germany,fertility,1.3599999999999999
+1955,Greece,fertility,2.27
+1960,Greece,fertility,2.2
+1965,Greece,fertility,2.38
+1970,Greece,fertility,2.32
+1975,Greece,fertility,2.32
+1980,Greece,fertility,1.96
+1985,Greece,fertility,1.53
+1990,Greece,fertility,1.37
+1995,Greece,fertility,1.296
+2000,Greece,fertility,1.2770000000000001
+2005,Greece,fertility,1.325
+1955,Grenada,fertility,6.7
+1960,Grenada,fertility,6.4
+1965,Grenada,fertility,4.8
+1970,Grenada,fertility,4.6
+1975,Grenada,fertility,4.3
+1980,Grenada,fertility,4.23
+1985,Grenada,fertility,4.14
+1990,Grenada,fertility,3.26
+1995,Grenada,fertility,2.814
+2000,Grenada,fertility,2.429
+2005,Grenada,fertility,2.302
+1955,Haiti,fertility,6.3
+1960,Haiti,fertility,6.3
+1965,Haiti,fertility,6.0
+1970,Haiti,fertility,5.6005
+1975,Haiti,fertility,5.8
+1980,Haiti,fertility,6.2099
+1985,Haiti,fertility,5.69985
+1990,Haiti,fertility,5.14985
+1995,Haiti,fertility,4.61995
+2000,Haiti,fertility,4.0
+2005,Haiti,fertility,3.5445
+1955,Hong Kong,fertility,4.72
+1960,Hong Kong,fertility,5.31
+1965,Hong Kong,fertility,4.02
+1970,Hong Kong,fertility,2.89
+1975,Hong Kong,fertility,2.32
+1980,Hong Kong,fertility,1.8
+1985,Hong Kong,fertility,1.31
+1990,Hong Kong,fertility,1.288
+1995,Hong Kong,fertility,1.08
+2000,Hong Kong,fertility,0.9400000000000001
+2005,Hong Kong,fertility,0.966
+1955,Iceland,fertility,4.023
+1960,Iceland,fertility,3.943
+1965,Iceland,fertility,3.154
+1970,Iceland,fertility,2.843
+1975,Iceland,fertility,2.287
+1980,Iceland,fertility,2.248
+1985,Iceland,fertility,2.116
+1990,Iceland,fertility,2.194
+1995,Iceland,fertility,2.056
+2000,Iceland,fertility,1.9929999999999999
+2005,Iceland,fertility,2.052
+1955,India,fertility,5.8961
+1960,India,fertility,5.8216
+1965,India,fertility,5.6058
+1970,India,fertility,5.264
+1975,India,fertility,4.8888
+1980,India,fertility,4.4975
+1985,India,fertility,4.15
+1990,India,fertility,3.8648
+1995,India,fertility,3.4551
+2000,India,fertility,3.1132
+2005,India,fertility,2.8073
+1955,Indonesia,fertility,5.672
+1960,Indonesia,fertility,5.62
+1965,Indonesia,fertility,5.568
+1970,Indonesia,fertility,5.3
+1975,Indonesia,fertility,4.73
+1980,Indonesia,fertility,4.109
+1985,Indonesia,fertility,3.4
+1990,Indonesia,fertility,2.9
+1995,Indonesia,fertility,2.55
+2000,Indonesia,fertility,2.3761
+2005,Indonesia,fertility,2.182
+1955,Iran,fertility,7.0
+1960,Iran,fertility,7.0
+1965,Iran,fertility,6.8
+1970,Iran,fertility,6.4
+1975,Iran,fertility,6.5
+1980,Iran,fertility,6.63
+1985,Iran,fertility,5.62
+1990,Iran,fertility,4.328
+1995,Iran,fertility,2.534
+2000,Iran,fertility,2.124
+2005,Iran,fertility,2.04
+1955,Iraq,fertility,7.3
+1960,Iraq,fertility,7.25
+1965,Iraq,fertility,7.2
+1970,Iraq,fertility,7.15
+1975,Iraq,fertility,6.8
+1980,Iraq,fertility,6.35
+1985,Iraq,fertility,6.15
+1990,Iraq,fertility,5.7
+1995,Iraq,fertility,5.37
+2000,Iraq,fertility,4.858
+2005,Iraq,fertility,4.264
+1955,Ireland,fertility,3.68
+1960,Ireland,fertility,3.979
+1965,Ireland,fertility,3.873
+1970,Ireland,fertility,3.815
+1975,Ireland,fertility,3.478
+1980,Ireland,fertility,2.877
+1985,Ireland,fertility,2.287
+1990,Ireland,fertility,1.9689999999999999
+1995,Ireland,fertility,1.9
+2000,Ireland,fertility,1.9689999999999999
+2005,Ireland,fertility,1.964
+1955,Israel,fertility,3.893
+1960,Israel,fertility,3.852
+1965,Israel,fertility,3.79
+1970,Israel,fertility,3.77
+1975,Israel,fertility,3.409
+1980,Israel,fertility,3.125
+1985,Israel,fertility,3.051
+1990,Israel,fertility,2.933
+1995,Israel,fertility,2.942
+2000,Israel,fertility,2.906
+2005,Israel,fertility,2.75
+1955,Italy,fertility,2.35
+1960,Italy,fertility,2.498
+1965,Italy,fertility,2.493
+1970,Italy,fertility,2.325
+1975,Italy,fertility,1.889
+1980,Italy,fertility,1.53
+1985,Italy,fertility,1.349
+1990,Italy,fertility,1.275
+1995,Italy,fertility,1.213
+2000,Italy,fertility,1.286
+2005,Italy,fertility,1.379
+1955,Jamaica,fertility,5.08
+1960,Jamaica,fertility,5.64
+1965,Jamaica,fertility,5.78
+1970,Jamaica,fertility,5.0
+1975,Jamaica,fertility,4.0
+1980,Jamaica,fertility,3.55
+1985,Jamaica,fertility,3.1
+1990,Jamaica,fertility,2.84
+1995,Jamaica,fertility,2.67
+2000,Jamaica,fertility,2.628
+2005,Jamaica,fertility,2.4289
+1955,Japan,fertility,2.08
+1960,Japan,fertility,2.02
+1965,Japan,fertility,2.0
+1970,Japan,fertility,2.07
+1975,Japan,fertility,1.81
+1980,Japan,fertility,1.76
+1985,Japan,fertility,1.6600000000000001
+1990,Japan,fertility,1.49
+1995,Japan,fertility,1.3900000000000001
+2000,Japan,fertility,1.291
+2005,Japan,fertility,1.27
+1955,Kenya,fertility,7.816
+1960,Kenya,fertility,8.12
+1965,Kenya,fertility,8.12
+1970,Kenya,fertility,8.0
+1975,Kenya,fertility,7.6
+1980,Kenya,fertility,7.2
+1985,Kenya,fertility,6.5
+1990,Kenya,fertility,5.4
+1995,Kenya,fertility,5.0
+2000,Kenya,fertility,5.0
+2005,Kenya,fertility,4.959
+1955,South Korea,fertility,3.8
+1960,South Korea,fertility,3.41
+1965,South Korea,fertility,4.09
+1970,South Korea,fertility,3.7199999999999998
+1975,South Korea,fertility,2.58
+1980,South Korea,fertility,2.93
+1985,South Korea,fertility,2.45
+1990,South Korea,fertility,2.35
+1995,South Korea,fertility,2.0938
+2000,South Korea,fertility,1.9173
+2005,South Korea,fertility,1.85
+1955,North Korea,fertility,6.332
+1960,North Korea,fertility,5.63
+1965,North Korea,fertility,4.708
+1970,North Korea,fertility,4.281
+1975,North Korea,fertility,2.919
+1980,North Korea,fertility,2.234
+1985,North Korea,fertility,1.601
+1990,North Korea,fertility,1.6960000000000002
+1995,North Korea,fertility,1.514
+2000,North Korea,fertility,1.242
+2005,North Korea,fertility,1.21
+1955,Lebanon,fertility,5.72
+1960,Lebanon,fertility,5.689
+1965,Lebanon,fertility,5.336
+1970,Lebanon,fertility,4.78
+1975,Lebanon,fertility,4.311
+1980,Lebanon,fertility,3.895
+1985,Lebanon,fertility,3.313
+1990,Lebanon,fertility,3.0
+1995,Lebanon,fertility,2.6950000000000003
+2000,Lebanon,fertility,2.319
+2005,Lebanon,fertility,2.209
+1955,Mexico,fertility,6.8
+1960,Mexico,fertility,6.7495
+1965,Mexico,fertility,6.7495
+1970,Mexico,fertility,6.5
+1975,Mexico,fertility,5.2505
+1980,Mexico,fertility,4.25
+1985,Mexico,fertility,3.6295
+1990,Mexico,fertility,3.1905
+1995,Mexico,fertility,2.6705
+2000,Mexico,fertility,2.4005
+2005,Mexico,fertility,2.211
+1955,Netherlands,fertility,3.095
+1960,Netherlands,fertility,3.168
+1965,Netherlands,fertility,2.797
+1970,Netherlands,fertility,2.059
+1975,Netherlands,fertility,1.596
+1980,Netherlands,fertility,1.5150000000000001
+1985,Netherlands,fertility,1.5550000000000002
+1990,Netherlands,fertility,1.583
+1995,Netherlands,fertility,1.6
+2000,Netherlands,fertility,1.726
+2005,Netherlands,fertility,1.721
+1955,New Zealand,fertility,4.07
+1960,New Zealand,fertility,4.022
+1965,New Zealand,fertility,3.348
+1970,New Zealand,fertility,2.843
+1975,New Zealand,fertility,2.178
+1980,New Zealand,fertility,1.963
+1985,New Zealand,fertility,2.053
+1990,New Zealand,fertility,2.061
+1995,New Zealand,fertility,1.952
+2000,New Zealand,fertility,1.964
+2005,New Zealand,fertility,1.994
+1955,Nigeria,fertility,6.9
+1960,Nigeria,fertility,6.9
+1965,Nigeria,fertility,6.9
+1970,Nigeria,fertility,6.9
+1975,Nigeria,fertility,6.9
+1980,Nigeria,fertility,6.9
+1985,Nigeria,fertility,6.834
+1990,Nigeria,fertility,6.635
+1995,Nigeria,fertility,6.246
+2000,Nigeria,fertility,5.845
+2005,Nigeria,fertility,5.322
+1955,Norway,fertility,2.8369999999999997
+1960,Norway,fertility,2.898
+1965,Norway,fertility,2.719
+1970,Norway,fertility,2.248
+1975,Norway,fertility,1.81
+1980,Norway,fertility,1.687
+1985,Norway,fertility,1.8
+1990,Norway,fertility,1.8860000000000001
+1995,Norway,fertility,1.853
+2000,Norway,fertility,1.8010000000000002
+2005,Norway,fertility,1.8479999999999999
+1955,Pakistan,fertility,6.6
+1960,Pakistan,fertility,6.6
+1965,Pakistan,fertility,6.6
+1970,Pakistan,fertility,6.6
+1975,Pakistan,fertility,6.6
+1980,Pakistan,fertility,6.6
+1985,Pakistan,fertility,6.66
+1990,Pakistan,fertility,5.8
+1995,Pakistan,fertility,4.9596
+2000,Pakistan,fertility,3.9936
+2005,Pakistan,fertility,3.5211
+1955,Peru,fertility,6.853
+1960,Peru,fertility,6.853
+1965,Peru,fertility,6.5600000000000005
+1970,Peru,fertility,6.0
+1975,Peru,fertility,5.378
+1980,Peru,fertility,4.65
+1985,Peru,fertility,4.1
+1990,Peru,fertility,3.7
+1995,Peru,fertility,3.0995
+2000,Peru,fertility,2.7005
+2005,Peru,fertility,2.5065
+1955,Philippines,fertility,7.13
+1960,Philippines,fertility,6.85
+1965,Philippines,fertility,6.5
+1970,Philippines,fertility,6.0
+1975,Philippines,fertility,5.5
+1980,Philippines,fertility,4.95
+1985,Philippines,fertility,4.55
+1990,Philippines,fertility,4.143
+1995,Philippines,fertility,3.7248
+2000,Philippines,fertility,3.5436
+2005,Philippines,fertility,3.2327
+1955,Poland,fertility,3.29
+1960,Poland,fertility,2.65
+1965,Poland,fertility,2.27
+1970,Poland,fertility,2.25
+1975,Poland,fertility,2.26
+1980,Poland,fertility,2.33
+1985,Poland,fertility,2.15
+1990,Poland,fertility,1.8900000000000001
+1995,Poland,fertility,1.478
+2000,Poland,fertility,1.251
+2005,Poland,fertility,1.227
+1955,Portugal,fertility,3.03
+1960,Portugal,fertility,3.074
+1965,Portugal,fertility,2.849
+1970,Portugal,fertility,2.748
+1975,Portugal,fertility,2.41
+1980,Portugal,fertility,1.982
+1985,Portugal,fertility,1.5939999999999999
+1990,Portugal,fertility,1.516
+1995,Portugal,fertility,1.475
+2000,Portugal,fertility,1.454
+2005,Portugal,fertility,1.455
+1955,Rwanda,fertility,8.0
+1960,Rwanda,fertility,8.1
+1965,Rwanda,fertility,8.2
+1970,Rwanda,fertility,8.29
+1975,Rwanda,fertility,8.492
+1980,Rwanda,fertility,8.5
+1985,Rwanda,fertility,8.25
+1990,Rwanda,fertility,6.9
+1995,Rwanda,fertility,6.0993
+2000,Rwanda,fertility,6.01
+2005,Rwanda,fertility,5.9169
+1955,Saudi Arabia,fertility,7.175
+1960,Saudi Arabia,fertility,7.257
+1965,Saudi Arabia,fertility,7.257
+1970,Saudi Arabia,fertility,7.298
+1975,Saudi Arabia,fertility,7.2780000000000005
+1980,Saudi Arabia,fertility,7.015
+1985,Saudi Arabia,fertility,6.217
+1990,Saudi Arabia,fertility,5.446
+1995,Saudi Arabia,fertility,4.621
+2000,Saudi Arabia,fertility,3.81
+2005,Saudi Arabia,fertility,3.352
+1955,South Africa,fertility,6.5
+1960,South Africa,fertility,6.3
+1965,South Africa,fertility,5.7
+1970,South Africa,fertility,5.47
+1975,South Africa,fertility,5.0
+1980,South Africa,fertility,4.556
+1985,South Africa,fertility,3.85
+1990,South Africa,fertility,3.343
+1995,South Africa,fertility,2.954
+2000,South Africa,fertility,2.802
+2005,South Africa,fertility,2.637
+1955,Spain,fertility,2.75
+1960,Spain,fertility,2.89
+1965,Spain,fertility,2.92
+1970,Spain,fertility,2.86
+1975,Spain,fertility,2.5700000000000003
+1980,Spain,fertility,1.8900000000000001
+1985,Spain,fertility,1.48
+1990,Spain,fertility,1.27
+1995,Spain,fertility,1.182
+2000,Spain,fertility,1.287
+2005,Spain,fertility,1.409
+1955,Switzerland,fertility,2.34
+1960,Switzerland,fertility,2.51
+1965,Switzerland,fertility,2.27
+1970,Switzerland,fertility,1.82
+1975,Switzerland,fertility,1.53
+1980,Switzerland,fertility,1.53
+1985,Switzerland,fertility,1.53
+1990,Switzerland,fertility,1.54
+1995,Switzerland,fertility,1.47
+2000,Switzerland,fertility,1.415
+2005,Switzerland,fertility,1.42
+1955,Turkey,fertility,6.6
+1960,Turkey,fertility,6.19
+1965,Turkey,fertility,5.7
+1970,Turkey,fertility,5.3
+1975,Turkey,fertility,4.715
+1980,Turkey,fertility,4.15
+1985,Turkey,fertility,3.276
+1990,Turkey,fertility,2.904
+1995,Turkey,fertility,2.574
+2000,Turkey,fertility,2.23
+2005,Turkey,fertility,2.143
+1955,United Kingdom,fertility,2.49
+1960,United Kingdom,fertility,2.81
+1965,United Kingdom,fertility,2.52
+1970,United Kingdom,fertility,2.04
+1975,United Kingdom,fertility,1.72
+1980,United Kingdom,fertility,1.8
+1985,United Kingdom,fertility,1.81
+1990,United Kingdom,fertility,1.78
+1995,United Kingdom,fertility,1.7000000000000002
+2000,United Kingdom,fertility,1.695
+2005,United Kingdom,fertility,1.815
+1955,United States,fertility,3.706
+1960,United States,fertility,3.314
+1965,United States,fertility,2.545
+1970,United States,fertility,2.016
+1975,United States,fertility,1.788
+1980,United States,fertility,1.8250000000000002
+1985,United States,fertility,1.924
+1990,United States,fertility,2.025
+1995,United States,fertility,1.994
+2000,United States,fertility,2.038
+2005,United States,fertility,2.054
+1955,Venezuela,fertility,6.4585
+1960,Venezuela,fertility,6.657
+1965,Venezuela,fertility,5.9045000000000005
+1970,Venezuela,fertility,4.941
+1975,Venezuela,fertility,4.4685
+1980,Venezuela,fertility,3.957
+1985,Venezuela,fertility,3.6485000000000003
+1990,Venezuela,fertility,3.25
+1995,Venezuela,fertility,2.9415
+2000,Venezuela,fertility,2.723
+2005,Venezuela,fertility,2.547

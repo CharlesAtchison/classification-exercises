@@ -42,5 +42,6 @@ def confusion_table(df: pd.DataFrame, target:str) -> str:
     result = f'''<center><h1>{target.capitalize()}</h1></center>
     <table>
     <tr>{table_names}</tr>
-    <tr>{tables}</t'''
+    <tr>{tables}</tr></table>'''
+
     return result

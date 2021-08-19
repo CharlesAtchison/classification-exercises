@@ -61,8 +61,7 @@ def confusion_table(df: pd.DataFrame) -> str:
         
         tables += f'<td>\n\n{tab}\n\n</td>\n\n'
 
-    result += f'''\n
-    <table>
+    result += f'''<table>
     <tr>{table_names}</tr>
     <tr>{tables}</tr></table>'''
 

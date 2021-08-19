@@ -1,18 +1,23 @@
 import pandas as pd
+from sklearn.dummy import DummyClassifier
+from sklearn.metrics import classification_report
+import acquire
+import prepare
 
-def confusion_table(df: pd.DataFrame, target:str) -> str:
+import warnings
+warnings.filterwarnings('ignore')
+
+def confusion_table(df: pd.DataFrame) -> str:
     '''Takes DataFrame and prints a formatted Confusion Table/Matrix in
-    markdown for Juypter notebooks.
+    markdown for Juypter notebooks. The first column must be the actual values and all
+    the other columns have to be model values or predicted values.
     
     Parameters
     ----------
     
     df : pandas DataFrame
-        Requires the 'actual' values to be a column named 'actual'
+        Requires the 'actual' values to be the first column 
         and all other columns to be the predicted values.
-    target : str
-        This is the target predicted value that will be used to measure
-        for recall and precision in a confusion matrix.
         
     Returns
     -------
@@ -22,26 +27,48 @@ def confusion_table(df: pd.DataFrame, target:str) -> str:
         markdown cell and easier to view the values.
         
     '''
+    result = str()
     table_names = str()
     tables = str()
-    
-    col_names = [col for col in df.columns if col != 'actual']
+    actual = df.columns[0]
+    col_names = [col for col in df.columns if col != actual]
     for col in col_names:
         table_names += f'<th><center>{str(col.capitalize())}</center></th>'
-    
     for col in col_names:
-        val = pd.crosstab(df[col], df.actual, rownames=['Pred'], colnames=['Actual']).to_markdown()
-        recall_subset = df[df.actual == target]
-        recall_val = (recall_subset.actual == recall_subset[col]).mean() * 100
-        precision_subset = df[df[col] == target]
-        precision_val = (precision_subset.actual == precision_subset[col]).mean() * 100
+        val = pd.crosstab(df[col], df[actual], rownames=['Pred'], colnames=['Actual']).reset_index()
+        report = pd.DataFrame(classification_report(df[actual], df[col], output_dict=True))
+        uniques = [col for col in val.columns if col not in ['Pred']]
         
-        val += f'\n| Precision|---|{precision_val:0.2f}%|\n| Recall|---|{recall_val:0.2f}%|'
-        tables += f'<td>\n\n{val}\n\n</td>\n\n'
         
-    result = f'''<center><h1>{target.capitalize()}</h1></center>
+        accuracy_row = ['Accuracy']
+        accuracy_row.extend(['-----' for n in range(len(uniques))])
+        accuracy_row[-1] = report.accuracy[0] * 100
+        
+        
+        divider = ['-----' for n in range(len(uniques)+1)]
+        val.loc[len(val.index)] = divider
+        val.loc[len(val.index)] = accuracy_row
+        val.loc[len(val.index)] = divider
+        
+        for unique in uniques:
+            df2 = [{'Pred': 'Precision', unique: report[unique][0] * 100},
+                  {'Pred': 'Recall', unique: report[unique][1] * 100}]
+            val = val.append(df2, ignore_index = True)
+            
+        new_df = val.set_index('Pred')
+        tab = new_df.to_markdown()
+        
+        
+        tables += f'<td>\n\n{tab}\n\n</td>\n\n'
+
+    result += f'''\n
     <table>
     <tr>{table_names}</tr>
     <tr>{tables}</tr></table>'''
 
     return result
+
+
+def model_generator():
+    pass
+

@@ -31,31 +31,49 @@ def confusion_table(df: pd.DataFrame) -> str:
     table_names = str()
     tables = str()
     actual = df.columns[0]
-    col_names = [col for col in df.columns if col != actual]
+    col_names = [str(col) for col in df.columns if col != actual]
     for col in col_names:
         table_names += f'<th><center>{str(col.capitalize())}</center></th>'
     for col in col_names:
+        
+        # Crosstab the model row vs the actual values
         val = pd.crosstab(df[col], df[actual], rownames=['Pred'], colnames=['Actual']).reset_index()
+        
+        # Generate report values, precision, recall, accuracy
         report = pd.DataFrame(classification_report(df[actual], df[col], output_dict=True))
-        uniques = [col for col in val.columns if col not in ['Pred']]
         
+        # Get all the uniques in a list
+        uniques = [str(col) for col in val.columns if col not in ['Pred']]
         
+        # Make a line break in table for Accuracy
         accuracy_row = ['Accuracy']
         accuracy_row.extend(['-----' for n in range(len(uniques))])
         accuracy_row[-1] = report.accuracy[0] * 100
         
+        # Ensure all columns names are strings
+        val = val.rename(columns=lambda x: str(x))
         
+        # Create a divider of len n
         divider = ['-----' for n in range(len(uniques)+1)]
         val.loc[len(val.index)] = divider
+        # Input the accuracy
         val.loc[len(val.index)] = accuracy_row
         val.loc[len(val.index)] = divider
         
         for unique in uniques:
-            df2 = [{'Pred': 'Precision', unique: report[unique][0] * 100},
-                  {'Pred': 'Recall', unique: report[unique][1] * 100}]
-            val = val.append(df2, ignore_index = True)
+            # Iterate through all uniques and fetch their precision and 
+            # Recall values to put into the table.
+            precision = report[str(unique)][0] * 100
+            recall = report[str(unique)][1] * 100
+            df2 = [{'Pred': 'Precision', unique: precision},
+                  {'Pred': 'Recall', unique: recall}]
             
+            # Add the values to the bottom of the table
+            val = val.append(df2, ignore_index=True)
+        
+        # Collapse the index under Pred to have the table smaller
         new_df = val.set_index('Pred')
+        # Put the table to markdown
         tab = new_df.to_markdown()
         
         

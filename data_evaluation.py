@@ -1,8 +1,12 @@
 import pandas as pd
 from sklearn.dummy import DummyClassifier
 from sklearn.metrics import classification_report
-from sklearn.model_selection import validation_curve
+from sklearn.model_selection import GridSearchCV
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
+
 import acquire, prepare, warnings
 import numpy as np
 
@@ -169,10 +173,10 @@ def replace_obj_cols(daf: pd.DataFrame, dropna=False) -> (pd.DataFrame, dict, di
     
     return df, replace_key, revert_key
 
-def explore_validation_curve(X : pd.DataFrame, y : pd.DataFrame, param_name : str, num_est : np.ndarray, model, color_args={'training': ['black', 'orange'], 'validation': ['red', 'cyan']}) -> pd.DataFrame:
-    '''Function that will print out plot of the single selected hyperparameter for the validation
-    curve the plotted mean for each nth value and the standard deviation for each nth value. This requires
-    some model generated. 
+def explore_validation_curve(X : pd.DataFrame, y : pd.DataFrame, param_grid : dict, model, cv=None, color_args={'train': ['black', 'orange'], 'test': ['red', 'cyan']}):
+    '''Function that will print out plot of the single or multiple input hyperparameter(s) for the validation
+    curves the plotted mean for each nth value and the standard deviation for each nth value. This requires
+    some model generated and will return a sklearn.model_select.GridSearchCV class.
 
     
     Parameters
@@ -183,126 +187,167 @@ def explore_validation_curve(X : pd.DataFrame, y : pd.DataFrame, param_name : st
     y : pandas DataFrame
         Some y_values dataframe to be put into the validation_curve.
 
-    param_name : str
-        What hyperparmeter you would like to explore within the validation_curve.
-    
-    num_est : numpy ndarray
-        The range of values to test within the validation_curve.
+    param_grid : str
+        What hyperparmeter you would like to explore within the validation_curve and an associated numpy range.
+        With each additional hyperparameter, you'll have combinatoric possibilities of 
+        n!/r!(n − r)!, where r is the number of hyperparameters and n is the number
+        of n values for each hyperparameter.
+
+        format :
+                        {
+                            __some_hyperparameter__: __some_numpy_range__,
+                            __some_hyperparameter__: __some_numpy_range__
+                        }
+        
+        Examples
+        --------
+        Single Hyperparameter
+        param_grid = {'n_estimators' : np.arange(1, 200, 2)}
+        
+        Multi Hyperparameter
+        param_grid = {'n_estimators' : np.arange(1, 200, 2),
+                      'max_depth' : np.arange(1, 13, 1)}
+
     
     model : Sklearn model
         Can check sklearn models, verified currently compatible with:
-            DecisionTreeClassifier(),
-            RandomForestClassifier()
+            DecisionTreeClassifier,
+            RandomForestClassifier,
+            KNeighborsClassifier
+            
+    cv : int, cross-validation generator or an iterable, default=None
+        Determines the cross-validation splitting strategy.
+        Possible inputs for cv are:
+
+        - None, to use the default 5-fold cross validation,
+        - integer, to specify the number of folds in a `(Stratified)KFold`,
+        - :term:`CV splitter`,
+        - An iterable yielding (train, test) splits as arrays of indices.
+
+        For integer/None inputs, if the estimator is a classifier and ``y`` is
+        either binary or multiclass, :class:`StratifiedKFold` is used. In all
+        other cases, :class:`KFold` is used.
+
 
     color_args : dict
         Not required, default values:
-        {'training': ['black', 'orange'],
-         'validation': ['red', 'cyan']}
+        {'train': ['black', 'orange'],
+         'test': ['red', 'cyan']}
         
         can personalize but must be in the format of
-        # training_line    line_color      standard_dev fill color
-        {'training}    :   ['black'     ,  'orange']
+        # train_line    line_color      standard_dev fill color
+        {'train}    :   ['black'     ,  'orange']
 
-        # validation_line    line_color      standard_dev fill color
-        {'validation}    :   ['red'     ,  'cyan']
+        # test_line    line_color      standard_dev fill color
+        {'test'}    :   ['red'     ,  'cyan']
 
     Returns
     -------
-    pandas DataFrame 
-        The returned DataFrame contains mean, std, n_val for all n values for the defined param_name
+    sklearn GridSearchCV
+        The returned class is a the GridSearchCV with associated selectable attributes.
+        
     
     Examples
     -------
-    >>> val = explore_validation_curve(X_train, y_train, 'max_depth', np.arange(1, 13, 1),
-                                DecisionTreeClassifier())
+    >>> param_grid = {'n_estimators' : np.arange(1, 200, 2),
+                      'max_depth' : np.arange(1, 13, 1)}
+                      
+    >>> val = explore_validation_curve(X_train, y_train, param_grid, RandomForestClassifier())
 
     
-    	mean	std	        n_val
-    0	0.799102	0.059686	1
-    1	0.775102	0.052757	2
-    2	0.817265	0.044255	3
-    3	0.789184	0.049054	4
-    4	0.799184	0.029710	5
+    >>> print(type(val))
+    
+    <class 'sklearn.model_selection._search.GridSearchCV'>
+    
+    --------------------------------------------------------------------------------------------------
 
+    >>> param_grid = {'n_estimators' : np.arange(1, 200, 2),
+                      'max_depth' : np.arange(1, 13, 1)}
+    
+    >>> val = explore_validation_curve(X_train, y_train, param_grid, DecisionTreeClassifier(), cv=5,
+                                color_args={'train': ['green', 'purple'],
+                                            'test': ['orange', 'red']})
+    >>> print(type(val))
+    
+    <class 'sklearn.model_selection._search.GridSearchCV'>
 
-    >>> val = explore_forest_validation_curve(X_train, y_train, 'n_estimators', np.arange(1, 300, 3),
-                                RandomForestClassifier(), color_args={'training': ['green', 'purple'],
-                                                                     'validation': ['orange', 'red']})
-    >>> val.head(n=5)
+    --------------------------------------------------------------------------------------------------
 
-            mean	std	    n_val
-    0	0.710939	0.081079	1
-    1	0.795061	0.035173	4
-    2	0.809143	0.051167	7
-    3	0.837347	0.049380	10
-    4	0.815102	0.049550	13
+    >>> param_grid = {'n_neighbors' : np.arange(1, 30, 2),
+                      'max_depth' : np.arange(1, 13, 1)}
+    
+    >>> val = explore_validation_curve(X_train, y_train, param_grid, KNeighborsClassifier(), cv=5,
+                                color_args={'train': ['green', 'purple'],
+                                            'test': ['orange', 'red']})
+    >>> print(type(val))
+    
+    <class 'sklearn.model_selection._search.GridSearchCV'>
 
-    >>> print(X_train.shape[1])
-    12
-
-    >>> val = explore_forest_validation_curve(X_train, y_train, 'max_depth', np.arange(1, 13, 1),
-                                RandomForestClassifier(n_estimators=178, criterion='gini', min_samples_leaf=3))
-    >>> val.head(n=5)
-
-            mean	std	    n_val
-    0	0.787143	0.049357	1
-    1	0.797184	0.052523	2
-    2	0.815265	0.043630	3
-    3	0.823224	0.035994	4
-    4	0.835143	0.039832	5
     '''
-    num_est_df = pd.DataFrame({'n_val':num_est})
-
+    
     # Check that if the param_name is 'max_depth' that the range is not greater than the number of attributes in model.
-    if param_name == 'max_depth' and len(num_est) > X.shape[1]:
+    if 'max_depth' in param_grid.keys() and len(param_grid['max_depth']) > X.shape[1]:
         raise Exception(f"Sorry, your range cannot be larger than the number of attributes ({X.shape[1]}) when using 'max_depth")
         
     # Calculate validation curve and return as array
-    x_score, y_score= validation_curve(model, 
-                                                X = X, y = y,
-                                                param_name = param_name, cv=10,
-                                                param_range = num_est, scoring='accuracy', n_jobs=-1)
+    grid = GridSearchCV(model, param_grid, cv=cv, return_train_score=True)
+    grid.fit(X, y)
 
+    ## Results from grid search
+    results = grid.cv_results_
+    means_test = results['mean_test_score']
+    stds_test = results['std_test_score']
+    means_train = results['mean_train_score']
+    stds_train = results['std_train_score']
 
-    # Calculate the mean and std for the training_score (x)
-    x_mean = np.mean(x_score, axis=1)
-    x_std = np.std(x_score, axis=1)
+    ## Getting indexes of values per hyper-parameter
+    masks=[]
+    best_vals = dict()
+    masks_names= list(grid.best_params_.keys())
+    for p_k, p_v in grid.best_params_.items():
+        best_vals[p_k] = p_v
+        masks.append(list(results['param_'+p_k].data==p_v))
 
+    params=grid.param_grid
 
-    # Calculate the mean and std for the validate score (y) and put to dataframes for merging
-    y_mean = np.mean(y_score, axis=1)
-    y_std = np.std(y_score, axis=1)
-    y_std_df = pd.DataFrame({'std': y_std})
-    y_mean_df = pd.DataFrame({'mean': y_mean})
-
-    # Merge dataframes to find the best attributes
-    merged_1_df = y_mean_df.merge(y_std_df, left_index=True, right_index=True, how='inner')
-    merged_df = merged_1_df.merge(num_est_df, left_index=True, right_index=True, how='inner')
-    best_avg = merged_df['mean'].max()
-    best_n = merged_df[merged_df['mean'] == best_avg]
-    best_n = best_n['n_val']
-
-    # Plot the training score and the scross validation scores
-    plt.plot(num_est, x_mean, label='Training Score', color=color_args['training'][0])
-    plt.plot(num_est, y_mean, label='Cross-Validation Score', color=color_args['validation'][0])
-
-    # Fill the standard deviation above and below the mean values
-    plt.fill_between(num_est, x_mean -  x_std, x_mean + x_std, color=color_args['training'][1])
-    plt.fill_between(num_est, y_mean -  y_std, y_mean + y_std, color=color_args['validation'][1])
-
-    # Make title, x & y labels, and legend for the plt and annotate the best metric on average then show plt
-    plt.title(f'Validation Curve for {param_name}')
-    plt.tight_layout()
-    plt.legend(loc='best')
-    plt.xlabel(f"n_val for {param_name}")
-    plt.ylabel('Accuracy')
-    plt.annotate(f'Best mean at N = {int(best_n)} with {best_avg:0.2f}',
-            xy=(best_n, best_avg), xycoords='data',
+    ## Ploting results
+    pram_preformace_in_best = {}
+    for i, p in enumerate(masks_names):
+        plt.title(f'Validation Curve for {p}')
+        # Check if there is only 1 hyperparameter to test
+        if len(masks_names) > 1:
+            # Stack the masks to find the best index
+            m = np.stack(masks[:i] + masks[i+1:])
+            pram_preformace_in_best
+            best_parms_mask = m.all(axis=0)
+            # Map the best index 
+            best_index = np.where(best_parms_mask)[0]
+        else:
+            best_index = np.arange(len(means_test))
+        x = np.array(params[p])
+        # Find the test_mean and train mean for each hyperparameter
+        test_mean = np.array(means_test[best_index])
+        test_std = np.array(stds_test[best_index])
+        train_mean = np.array(means_train[best_index])
+        train_std = np.array(stds_train[best_index])
+        best_mean = means_test[best_index][best_vals[p]-1]
+        # Build the plot for each hyperparameter
+        plt.plot(x, train_mean, label='Training score', color=color_args['train'][0])
+        plt.plot(x, test_mean, label='Test score', color=color_args['test'][0])
+        plt.fill_between(x, test_mean - test_std, test_mean + test_std, linestyle='--', label='test', color=color_args['test'][1])
+        plt.fill_between(x, train_mean - train_std, train_mean + train_std, linestyle='-', label='train' , color=color_args['train'][1])
+        plt.xlabel(p.upper())
+        plt.ylabel('Accuracy')
+        plt.legend(loc='best')
+        plt.annotate(f'Best {p} at N = {best_vals[p]}\nat {best_mean:0.2f}',
+            xy=(best_vals[p], best_mean), xycoords='data',
             xytext=(0, 20),
             textcoords='offset points',
             arrowprops=dict(arrowstyle="->",
                             connectionstyle="arc3"))
-    plt.show()
+        plt.show()
+        
+    print(grid.best_params_)
 
-    # Return the dataframe that has the results for each nth value.
-    return merged_df
+    # Return a GridSearchCV class with the associated attributes to examine.
+    return grid

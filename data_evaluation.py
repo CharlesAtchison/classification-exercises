@@ -286,11 +286,13 @@ def explore_validation_curve(X : pd.DataFrame, y : pd.DataFrame, param_grid : di
     '''
     
     # Check that if the param_name is 'max_depth' that the range is not greater than the number of attributes in model.
-    if 'max_depth' in param_grid.keys() and len(param_grid['max_depth']) > X.shape[1]:
-        raise Exception(f"Sorry, your range cannot be larger than the number of attributes ({X.shape[1]}) when using 'max_depth")
+    # if 'max_depth' in param_grid.keys() and len(param_grid['max_depth']) > X.shape[1]:
+    #     raise Exception(f"Sorry, your range cannot be larger than the number of attributes ({X.shape[1]}) when using 'max_depth")
         
     # Calculate validation curve and return as array
+    print('Starting grid search')
     grid = GridSearchCV(model, param_grid, cv=cv, return_train_score=True)
+    print('fitting')
     grid.fit(X, y)
 
     ## Results from grid search
